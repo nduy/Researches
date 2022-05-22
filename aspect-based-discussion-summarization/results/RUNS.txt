@@ -1,0 +1,1 @@
+[09] Implemented merging by similarity: two nodes are merged when their cosine similarity reach 85%. Fluid community detection detect 6 groups. 
