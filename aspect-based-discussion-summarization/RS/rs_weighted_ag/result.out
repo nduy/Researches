@@ -1,0 +1,272 @@
+[ ] Loaded data set! Number of conversation thread: 80
+[ ] Start building sum graph in mode 1
+[i] Start building aspect graph for the ARTICLE.
+[ ]  - Building graph for segment 0
+[ ]    + Graph for group: art.0 	 member:                 	 has  36 nodes and  34 edges 
+[ ]  - Building graph for segment 1
+[ ]    + Graph for group: art.1 	 member:                 	 has  26 nodes and  22 edges 
+[ ]  - Building graph for segment 2
+[ ]    + Graph for group: art.2 	 member:                 	 has 107 nodes and 104 edges 
+[ ]  - Building graph for segment 3
+[ ]    + Graph for group: art.3 	 member:                 	 has  37 nodes and  33 edges 
+[ ]  - Building graph for segment 4
+[ ]    + Graph for group: art.4 	 member:                 	 has  18 nodes and  15 edges 
+[ ]  - Building graph for segment 5
+[ ]    + Graph for group: art.5 	 member:                 	 has  70 nodes and  66 edges 
+[ ]  - Building graph for segment 6
+[ ]    + Graph for group: art.6 	 member:                 	 has  46 nodes and  42 edges 
+[ ]  - Building graph for segment 7
+[E] Can't parse sentence this sentence for coreference "He said that in the last three..."
+ --> Error: <RPCFault -32603: 'Internal error.' (None)>
+[W]  Unable to parse sentence for dependencies: Recycling just 10% more than w.
+[ ]     --> Error: <RPCFault -32603: 'Internal error.' (None)>
+[ ]    + Graph for group: art.7 	 member:                 	 has  30 nodes and  26 edges 
+[ ] 
+Start building aspect graph for COMMENTS, add up to the article graph.
+[i] Starting extractor Thread 0 with 11 data records
+[i] Starting extractor Thread 1 with 10 data records
+[i] Starting extractor Thread 2 with 10 data records
+[i] Starting extractor Thread 3 with 10 data records
+[i] Starting extractor Thread 4 with 10 data records
+[i] Starting extractor Thread 5 with 10 data records
+[i] Starting extractor Thread 6 with 10 data records
+[i] Starting extractor Thread 7 with 10 data records
+[i] Starting extractor Thread 8 with 10 data records[i] Starting extractor Thread 9 with 10 data records
+
+[ ]    + Graph for group: com.  	 member: 0x55a3150772a23^6 	 has   7 nodes and   7 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a31507722de^2 	 has   8 nodes and   6 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077269e^4 	 has   6 nodes and   7 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150772e23^8 	 has   7 nodes and   7 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a31507720e7^1 	 has  13 nodes and   9 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150772843^5 	 has  12 nodes and   8 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077301f^9 	 has   6 nodes and   4 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150773234^10 	 has  11 nodes and   8 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150774350^16 	 has  13 nodes and  11 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150772bef^7 	 has  19 nodes and  18 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077249a^3 	 has  15 nodes and  11 edges 
+[W]  --> Unable to extract co-reference for sentence: "Food waste is placed in the br..."
+     --> Error: list index out of range
+[ ]    + Graph for group: com.  	 member: 0x55a3150773740^12 	 has   8 nodes and   8 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150774ae2^20 	 has   7 nodes and   5 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150774777^18 	 has  13 nodes and   9 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a31507734ec^11 	 has  15 nodes and  17 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a31507757cb^26 	 has  12 nodes and  10 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150774949^19 	 has   4 nodes and   3 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150774593^17 	 has  14 nodes and  10 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150774e67^22 	 has   4 nodes and   3 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150773c9d^14 	 has  21 nodes and  24 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150776228^30 	 has   7 nodes and   4 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077395e^13 	 has  43 nodes and  47 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150776990^32 	 has   3 nodes and   2 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077598e^27 	 has  18 nodes and  20 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150777eee^40 	 has   7 nodes and   7 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150775c01^28 	 has  11 nodes and   8 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150778220^42 	 has   3 nodes and   2 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150775311^24 	 has   8 nodes and   5 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a31507775e8^36 	 has  39 nodes and  35 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150773eee^15 	 has  60 nodes and  56 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150777be4^38 	 has   8 nodes and   7 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150774c79^21 	 has  21 nodes and  15 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a31507794b0^50 	 has  11 nodes and   9 edges 
+[W]  --> Unable to extract co-reference for sentence: "How much does an average or cr..."
+     --> Error: pop index out of range
+[ ]    + Graph for group: com.  	 member: 0x55a3150776fab^34 	 has  15 nodes and  11 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150777930^37 	 has  21 nodes and  18 edges 
+[W]  --> Unable to extract co-reference for sentence: "  Where I live we have a fortn..."
+     --> Error: pop index out of range
+[ ]    + Graph for group: com.  	 member: 0x55a315077b38d^60 	 has   7 nodes and   5 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150779994^52 	 has  31 nodes and  29 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a31507784e9^44 	 has   2 nodes and   1 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150775e24^29 	 has  66 nodes and  64 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077913e^48 	 has  11 nodes and   8 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a31507754bd^25 	 has  35 nodes and  32 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150779ed1^54 	 has   5 nodes and   4 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150777d8f^39 	 has   3 nodes and   2 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150774ff7^23 	 has  45 nodes and  32 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150778ecc^47 	 has  20 nodes and  17 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077b936^62 	 has   9 nodes and   6 edges 
+[W]  --> Unable to extract co-reference for sentence: "It is difficult with a baby in..."
+     --> Error: list index out of range
+[ ]    + Graph for group: com.  	 member: 0x55a315077932b^49 	 has   2 nodes and   1 edges 
+[W]  --> Unable to extract co-reference for sentence: "  2 adults, 1 baby, 1 dog. We ..."
+     --> Error: pop index out of range
+[E] Can't parse sentence this sentence for coreference "reusables have to be washed at..."
+ --> Error: timed out
+[ ]    + Graph for group: com.  	 member: 0x55a315077cddc^72 	 has   2 nodes and   1 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150776440^31 	 has  52 nodes and  41 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077acff^58 	 has  45 nodes and  51 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077809c^41 	 has   3 nodes and   2 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077e5cb^82 	 has   7 nodes and   4 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077e13d^80 	 has  42 nodes and  42 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077bee1^64 	 has  20 nodes and  15 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077d0cb^74 	 has   6 nodes and   4 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077f4f7^90 	 has  11 nodes and  10 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077b073^59 	 has  33 nodes and  30 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150776b01^33 	 has  49 nodes and  41 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077e983^84 	 has   6 nodes and   6 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077f9cf^92 	 has  11 nodes and   7 edges 
+[i] Exiting extractor Thread 2
+[ ]    + Graph for group: com.  	 member: 0x55a31507771b1^35 	 has  47 nodes and  40 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150778381^43 	 has   6 nodes and   6 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077fd57^94 	 has   4 nodes and   3 edges 
+[i] Exiting extractor Thread 4
+[ ]    + Graph for group: com.  	 member: 0x55a31507796ce^51 	 has  26 nodes and  21 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077df2e^79 	 has  10 nodes and  11 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077da72^78 	 has  50 nodes and  48 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150778894^46 	 has  95 nodes and  82 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150778692^45 	 has   7 nodes and   4 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150779d05^53 	 has  17 nodes and  15 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a3150780750^100 	 has  24 nodes and  18 edges 
+[i] Exiting extractor Thread 0
+[ ]    + Graph for group: com.  	 member: 0x55a315077f199^88 	 has  14 nodes and  12 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077f37f^89 	 has   6 nodes and   5 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077a70d^57 	 has  69 nodes and  57 edges 
+[W]  Unable to parse sentence for dependencies: If you wash full_loads at 60 i.
+[ ]     --> Error: timed out
+[ ]    + Graph for group: com.  	 member: 0x55a315077b57e^61 	 has  16 nodes and  14 edges 
+[i] Exiting extractor Thread 8
+[i] Exiting extractor Thread 9
+[ ]    + Graph for group: com.  	 member: 0x55a315077a0a6^55 	 has  17 nodes and  15 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077a3c6^56 	 has  30 nodes and  26 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077bb3d^63 	 has  37 nodes and  31 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077c171^65 	 has  10 nodes and  10 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077cb41^71 	 has  28 nodes and  29 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077e775^83 	 has   7 nodes and   6 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077c327^66 	 has   8 nodes and   6 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077d27a^75 	 has   8 nodes and   6 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077e42d^81 	 has   2 nodes and   1 edges 
+[i] Exiting extractor Thread 3
+[ ]    + Graph for group: com.  	 member: 0x55a315077eb5a^85 	 has  15 nodes and  12 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077d723^77 	 has  35 nodes and  28 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077d4b5^76 	 has  26 nodes and  23 edges 
+[i] Exiting extractor Thread 5
+[ ]    + Graph for group: com.  	 member: 0x55a315077ed4e^86 	 has  11 nodes and  10 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315078005e^96 	 has   6 nodes and   7 edges 
+[i] Exiting extractor Thread 6
+[ ]    + Graph for group: com.  	 member: 0x55a315077ef48^87 	 has  23 nodes and  18 edges 
+[ ]    + Graph for group: com.  	 member: 0x55a315077f6d7^91 	 has  31 nodes and  24 edges 
+[i] Exiting extractor Thread 1
+[ ]    + Graph for group: com.  	 member: 0x55a315078021b^97 	 has  13 nodes and  10 edges 
+[i] Exiting extractor Thread 7
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[ ] Start graph Unification
+[ ]  - Start unification by matched keywords
+[ ]  - Finished unification by matched keywords
+[ ]  -> Unification by matched keywords complete! Number of nodes changed from 2082 to 976
+[ ]  - Start unification by semantic similarity of keywords
+[i]    + Loading model from ../models/glove.6B.200d.txt
+[ ]    + Model loading completed :)
+[ ]   -> Found 64 pairs whose similarity greater or equal threshold 0.85.
+[ ]  - Finished unification by semantic similarity for  keywords
+[ ]  -> Unification by semantic similarity  complete! Totally, Number of nodes changed from 2082 to 931
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[i] Elapsed time:  0:07:43.334960 seconds
+[i] Elapsed time:  0:07:43.414135 seconds
+[i] Elapsed time:  0:07:43.530699 seconds
+[ ] Start pruning aspect graph.
+[i] Start pruning the graph.
+[i]   --> up to Short word, black/white list, regex, length filter, 238 nodes and 1029 edges removed
+[i]   --> up to Frequency and degree filter, 862 nodes and 1569 edges removed
+[i]   --> up to Isolated nodes filter, 862 nodes and 1569 edges removed
+[ ] --> Graph PRUNNING completed.
+    Number of nodes: 69
+    Number of edges: 147
+[ ] --> 862 nodes removed. 1569 edges removed.
+[i] Elapsed time:  0:07:43.561708 seconds
+[i]  Detecting communities.
+rubbish set([u'v', u'n'])
+baby set([u'v', u'n'])
+adult set([u's', u'n'])
+weekly set([u's', u'r', u'n'])
+collection set([u'n'])
+change set([u'v', u'n'])
+nappy set([u's', u'n'])
+full set([u'a', u's', u'v', u'r', u'n'])
+house set([u'v', u'n'])
+struggle set([u'v', u'n'])
+flat set([u'a', u's', u'r', u'n'])
+bin set([u'v', u'n'])
+space set([u'v', u'n'])
+green set([u'a', u's', u'v', u'n'])
+rubbish set([u'v', u'n'])
+recycling set([u'v', u'n'])
+article set([u'v', u'n'])
+[i]  -->Community0 has 0 zero key(s) out of 13
+vermin set([u'n'])
+council set([u'n'])
+public set([u'a', u's', u'n'])
+health set([u'n'])
+issue set([u'v', u'n'])
+cut set([u'a', u's', u'v', u'n'])
+year set([u'n'])
+service set([u'v', u'n'])
+fox set([u'v', u'n'])
+look set([u'v', u'n'])
+rat set([u'v', u'n'])
+move set([u'v', u'n'])
+lead set([u'v', u'n'])
+desperate set([u's', u'n'])
+cost set([u'v', u'n'])
+[i]  -->Community1 has 0 zero key(s) out of 12
+fill set([u'v', u'n'])
+collection set([u'n'])
+able set([u'a', u's'])
+[E] None of the word in string "able" is not in the dictionary. Return zero vector.
+family set([u'n'])
+people set([u'v', u'n'])
+cardboard set([u's', u'n'])
+bin set([u'v', u'n'])
+week set([u'n'])
+end set([u'v', u'n'])
+vote set([u'v', u'n'])
+food set([u'n'])
+waste set([u's', u'v', u'n'])
+empty set([u'a', u's', u'v', u'n'])
+[i]  -->Community2 has 1 zero key(s) out of 12
+compost set([u'v', u'n'])
+food set([u'n'])
+little set([u'a', u's', u'r', u'n'])
+example set([u'n'])
+winter set([u'v', u'n'])
+recycling set([u'v', u'n'])
+bin set([u'v', u'n'])
+stuff set([u'v', u'n'])
+garden set([u'v', u'n'])
+waste set([u's', u'v', u'n'])
+bit set([u'v', u'n'])
+green set([u'a', u's', u'v', u'n'])
+waste set([u's', u'v', u'n'])
+disposal set([u'n'])
+blue set([u's', u'v', u'n'])
+cost set([u'v', u'n'])
+[i]  -->Community3 has 0 zero key(s) out of 13
+waste set([u's', u'v', u'n'])
+bury set([u'v'])
+package set([u'v', u'n'])
+grey set([u's', u'v', u'n'])
+bin set([u'v', u'n'])
+resident set([u'a', u'n'])
+councillor set([u'n'])
+recycle set([u'v'])
+borough set([u'n'])
+disposable set([u'a', u'n'])
+nappy set([u's', u'n'])
+susan set([])
+southworth set([])
+[E] None of the word in string "susan_southworth" is not in the dictionary. Return zero vector.
+amount set([u'v', u'n'])
+[i]  -->Community4 has 1 zero key(s) out of 11
+think set([u'v', u'n'])
+fortnightly set([u's', u'r'])
+[E] None of the word in string "fortnightly" is not in the dictionary. Return zero vector.
+garden set([u'v', u'n'])
+fly set([u's', u'v', u'n'])
+tipping set([u'v'])
+sort set([u'v', u'n'])
+size set([u's', u'v', u'n'])
+bin set([u'v', u'n'])
+collection set([u'n'])
+matter set([u'v', u'n'])
+[i]  -->Community5 has 1 zero key(s) out of 8
+[i] Elapsed time:  0:07:46.881445 seconds
+Execution time:  0:07:46.914456 seconds

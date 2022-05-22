@@ -1,0 +1,2113 @@
+{
+    "edges": [
+        {
+            "from": "collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "id": "collection~com.~0x55a3257376c07^21~0x59cc165b|recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "value": 2
+        },
+        {
+            "from": "collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "id": "collection~com.~0x55a3257376c07^21~0x59cc165b|fortnightly~com.~0x55a3257380ca3^87~0x59cc1710",
+            "label": "amod",
+            "title": "*Freq: 22 <br>*Labels: <br>amod^20<br>  -advmod^2",
+            "to": "fortnightly~com.~0x55a3257380ca3^87~0x59cc1710",
+            "value": 22
+        },
+        {
+            "from": "desperate_cost~art.2~~0x59cc15e9",
+            "id": "desperate_cost~art.2~~0x59cc15e9|cut~com.~0x55a32573754dd^11~0x59cc1644",
+            "label": "dep",
+            "title": "*Freq: 2 <br>*Labels: <br>dep^2",
+            "to": "cut~com.~0x55a32573754dd^11~0x59cc1644",
+            "value": 2
+        },
+        {
+            "from": "desperate_cost~art.2~~0x59cc15e9",
+            "id": "desperate_cost~art.2~~0x59cc15e9|move~art.2~~0x59cc15e8",
+            "label": "nsubj",
+            "title": "*Freq: 2 <br>*Labels: <br>nsubj^2",
+            "to": "move~art.2~~0x59cc15e8",
+            "value": 2
+        },
+        {
+            "from": "recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704",
+            "id": "recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704|compost~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "nsubj",
+            "title": "*Freq: 2 <br>*Labels: <br>nsubj^2",
+            "to": "compost~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 2
+        },
+        {
+            "from": "recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704",
+            "id": "recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704|empty~art.5~~0x59cc1604",
+            "label": "amod",
+            "title": "*Freq: 2 <br>*Labels: <br>amod^2",
+            "to": "empty~art.5~~0x59cc1604",
+            "value": 2
+        },
+        {
+            "from": "baby~com.~0x55a325737c2ba^56~0x59cc16e3",
+            "id": "baby~com.~0x55a325737c2ba^56~0x59cc16e3|nappy~com.~0x55a325737cb1f^58~0x59cc168c",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "nappy~com.~0x55a325737cb1f^58~0x59cc168c",
+            "value": 2
+        },
+        {
+            "from": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "id": "people~com.~0x55a325737ce77^59~0x59cc16aa|collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "label": "appos",
+            "title": "*Freq: 2 <br>*Labels: <br>appos^2",
+            "to": "collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "value": 2
+        },
+        {
+            "from": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "id": "people~com.~0x55a325737ce77^59~0x59cc16aa|bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "label": "FILL",
+            "title": "*Freq: 2 <br>*Labels: <br>FILL^2",
+            "to": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "value": 2
+        },
+        {
+            "from": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "id": "people~com.~0x55a325737ce77^59~0x59cc16aa|waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2",
+            "label": "FILL",
+            "title": "*Freq: 2 <br>*Labels: <br>FILL^2",
+            "to": "waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2",
+            "value": 2
+        },
+        {
+            "from": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "id": "people~com.~0x55a325737ce77^59~0x59cc16aa|amount~com.~0x55a32573754dd^11~0x59cc1644",
+            "label": "GENERATE",
+            "title": "*Freq: 2 <br>*Labels: <br>GENERATE^2",
+            "to": "amount~com.~0x55a32573754dd^11~0x59cc1644",
+            "value": 2
+        },
+        {
+            "from": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "id": "people~com.~0x55a325737ce77^59~0x59cc16aa|recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704",
+            "label": "PUT",
+            "title": "*Freq: 2 <br>*Labels: <br>PUT^2",
+            "to": "recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704",
+            "value": 2
+        },
+        {
+            "from": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "id": "people~com.~0x55a325737ce77^59~0x59cc16aa|waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "PRODUCE",
+            "title": "*Freq: 8 <br>*Labels: <br>PRODUCE^8",
+            "to": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 8
+        },
+        {
+            "from": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "id": "people~com.~0x55a325737ce77^59~0x59cc16aa|vote~com.~0x55a3257376f7a^23~0x59cc167b",
+            "label": "DO",
+            "title": "*Freq: 2 <br>*Labels: <br>DO^2",
+            "to": "vote~com.~0x55a3257376f7a^23~0x59cc167b",
+            "value": 2
+        },
+        {
+            "from": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "id": "people~com.~0x55a325737ce77^59~0x59cc16aa|rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "label": "STEAL",
+            "title": "*Freq: 2 <br>*Labels: <br>STEAL^2",
+            "to": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "value": 2
+        },
+        {
+            "from": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "id": "people~com.~0x55a325737ce77^59~0x59cc16aa|offer_weekly_collections~com.~0x55a3257376f7a^23~0x59cc1681",
+            "label": "MANAGE",
+            "title": "*Freq: 2 <br>*Labels: <br>MANAGE^2",
+            "to": "offer_weekly_collections~com.~0x55a3257376f7a^23~0x59cc1681",
+            "value": 2
+        },
+        {
+            "from": "matter~com.~0x55a3257377d49^29~0x59cc165b",
+            "id": "matter~com.~0x55a3257377d49^29~0x59cc165b|service~com.~0x55a3257376f7a^23~0x59cc166d",
+            "label": "nsubj",
+            "title": "*Freq: 2 <br>*Labels: <br>nsubj^2",
+            "to": "service~com.~0x55a3257376f7a^23~0x59cc166d",
+            "value": 2
+        },
+        {
+            "from": "matter~com.~0x55a3257377d49^29~0x59cc165b",
+            "id": "matter~com.~0x55a3257377d49^29~0x59cc165b|people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "value": 2
+        },
+        {
+            "from": "fox~com.~0x55a3257374398^2~0x59cc161d",
+            "id": "fox~com.~0x55a3257374398^2~0x59cc161d|vermin~art.5~~0x59cc1606",
+            "label": "conj",
+            "title": "*Freq: 2 <br>*Labels: <br>conj^2",
+            "to": "vermin~art.5~~0x59cc1606",
+            "value": 2
+        },
+        {
+            "from": "waste~art.6~~0x59cc1612",
+            "id": "waste~art.6~~0x59cc1612|little~com.~0x55a325737c5e5^57~0x59cc16e1",
+            "label": "amod",
+            "title": "*Freq: 2 <br>*Labels: <br>amod^2",
+            "to": "little~com.~0x55a325737c5e5^57~0x59cc16e1",
+            "value": 2
+        },
+        {
+            "from": "waste~art.6~~0x59cc1612",
+            "id": "waste~art.6~~0x59cc1612|week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "label": "dep",
+            "title": "*Freq: 2 <br>*Labels: <br>dep^2",
+            "to": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "value": 2
+        },
+        {
+            "from": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "id": "week~com.~0x55a325737ee5c^74~0x59cc16b5|waste~art.6~~0x59cc1612",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "waste~art.6~~0x59cc1612",
+            "value": 2
+        },
+        {
+            "from": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "id": "week~com.~0x55a325737ee5c^74~0x59cc16b5|waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "dep",
+            "title": "*Freq: 20 <br>*Labels: <br>dep^16<br>  -nsubj^4",
+            "to": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 20
+        },
+        {
+            "from": "size~com.~0x55a3257379cc1^39~0x59cc167c",
+            "id": "size~com.~0x55a3257379cc1^39~0x59cc167c|councillor~com.~0x55a3257379ff9^41~0x59cc16af",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "councillor~com.~0x55a3257379ff9^41~0x59cc16af",
+            "value": 2
+        },
+        {
+            "from": "size~com.~0x55a3257379cc1^39~0x59cc167c",
+            "id": "size~com.~0x55a3257379cc1^39~0x59cc167c|garden~com.~0x55a32573790c9^35~0x59cc16b1",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "garden~com.~0x55a32573790c9^35~0x59cc16b1",
+            "value": 2
+        },
+        {
+            "from": "family~com.~0x55a3257377428^25~0x59cc166e",
+            "id": "family~com.~0x55a3257377428^25~0x59cc166e|week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "label": "PUT",
+            "title": "*Freq: 2 <br>*Labels: <br>PUT^2",
+            "to": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "value": 2
+        },
+        {
+            "from": "family~com.~0x55a3257377428^25~0x59cc166e",
+            "id": "family~com.~0x55a3257377428^25~0x59cc166e|fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "label": "GO",
+            "title": "*Freq: 2 <br>*Labels: <br>GO^2",
+            "to": "fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "value": 2
+        },
+        {
+            "from": "family~com.~0x55a3257377428^25~0x59cc166e",
+            "id": "family~com.~0x55a3257377428^25~0x59cc166e|recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "label": "acl",
+            "title": "*Freq: 2 <br>*Labels: <br>acl^2",
+            "to": "recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "value": 2
+        },
+        {
+            "from": "family~com.~0x55a3257377428^25~0x59cc166e",
+            "id": "family~com.~0x55a3257377428^25~0x59cc166e|waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "FILL",
+            "title": "*Freq: 4 <br>*Labels: <br>FILL^4",
+            "to": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 4
+        },
+        {
+            "from": "cost~art.6~~0x59cc1611",
+            "id": "cost~art.6~~0x59cc1611|example~art.5~~0x59cc1604",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "example~art.5~~0x59cc1604",
+            "value": 2
+        },
+        {
+            "from": "struggle~com.~0x55a325737cb1f^58~0x59cc168c",
+            "id": "struggle~com.~0x55a325737cb1f^58~0x59cc168c|collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "label": "nmod",
+            "title": "*Freq: 4 <br>*Labels: <br>nmod^4",
+            "to": "collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "value": 4
+        },
+        {
+            "from": "bit~com.~0x55a3257377d49^29~0x59cc1671",
+            "id": "bit~com.~0x55a3257377d49^29~0x59cc1671|food~com.~0x55a3257377d49^29~0x59cc1671",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "food~com.~0x55a3257377d49^29~0x59cc1671",
+            "value": 2
+        },
+        {
+            "from": "fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "id": "fill~com.~0x55a325737c5e5^57~0x59cc16b2|bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "label": "dobj",
+            "title": "*Freq: 4 <br>*Labels: <br>dobj^2<br>  -ccomp^2",
+            "to": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "value": 4
+        },
+        {
+            "from": "fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "id": "fill~com.~0x55a325737c5e5^57~0x59cc16b2|week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "value": 2
+        },
+        {
+            "from": "fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "id": "fill~com.~0x55a325737c5e5^57~0x59cc16b2|winter~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "winter~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 2
+        },
+        {
+            "from": "fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "id": "fill~com.~0x55a325737c5e5^57~0x59cc16b2|end~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "end~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 2
+        },
+        {
+            "from": "amount~com.~0x55a32573754dd^11~0x59cc1644",
+            "id": "amount~com.~0x55a32573754dd^11~0x59cc1644|waste~art.6~~0x59cc1612",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "waste~art.6~~0x59cc1612",
+            "value": 2
+        },
+        {
+            "from": "amount~com.~0x55a32573754dd^11~0x59cc1644",
+            "id": "amount~com.~0x55a32573754dd^11~0x59cc1644|package~com.~0x55a3257377d49^29~0x59cc166a",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "package~com.~0x55a3257377d49^29~0x59cc166a",
+            "value": 2
+        },
+        {
+            "from": "resident~com.~0x55a325737b61f^51~0x59cc16c8",
+            "id": "resident~com.~0x55a325737b61f^51~0x59cc16c8|borough~art.5~~0x59cc1607",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "borough~art.5~~0x59cc1607",
+            "value": 2
+        },
+        {
+            "from": "change~art.6~~0x59cc1611",
+            "id": "change~art.6~~0x59cc1611|empty~art.5~~0x59cc1604",
+            "label": "nsubj",
+            "title": "*Freq: 4 <br>*Labels: <br>nsubj^4",
+            "to": "empty~art.5~~0x59cc1604",
+            "value": 4
+        },
+        {
+            "from": "change~art.6~~0x59cc1611",
+            "id": "change~art.6~~0x59cc1611|weekly_bin_space~art.6~~0x59cc1611",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "weekly_bin_space~art.6~~0x59cc1611",
+            "value": 2
+        },
+        {
+            "from": "change~art.6~~0x59cc1611",
+            "id": "change~art.6~~0x59cc1611|article~com.~0x55a3257375243^10~0x59cc1625",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "article~com.~0x55a3257375243^10~0x59cc1625",
+            "value": 2
+        },
+        {
+            "from": "vote~com.~0x55a3257376f7a^23~0x59cc167b",
+            "id": "vote~com.~0x55a3257376f7a^23~0x59cc167b|lead~art.2~~0x59cc15ed",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "lead~art.2~~0x59cc15ed",
+            "value": 2
+        },
+        {
+            "from": "vote~com.~0x55a3257376f7a^23~0x59cc167b",
+            "id": "vote~com.~0x55a3257376f7a^23~0x59cc167b|year~art.2~~0x59cc15e9",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "year~art.2~~0x59cc15e9",
+            "value": 2
+        },
+        {
+            "from": "vote~com.~0x55a3257376f7a^23~0x59cc167b",
+            "id": "vote~com.~0x55a3257376f7a^23~0x59cc167b|week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "value": 2
+        },
+        {
+            "from": "full~com.~0x55a325737a860^46~0x59cc1682",
+            "id": "full~com.~0x55a325737a860^46~0x59cc1682|adult~com.~0x55a325737f242^76~0x59cc1701",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "adult~com.~0x55a325737f242^76~0x59cc1701",
+            "value": 2
+        },
+        {
+            "from": "full~com.~0x55a325737a860^46~0x59cc1682",
+            "id": "full~com.~0x55a325737a860^46~0x59cc1682|bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "label": "nsubj",
+            "title": "*Freq: 6 <br>*Labels: <br>nsubj^4<br>  -dep^2",
+            "to": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "value": 6
+        },
+        {
+            "from": "full~com.~0x55a325737a860^46~0x59cc1682",
+            "id": "full~com.~0x55a325737a860^46~0x59cc1682|week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "value": 2
+        },
+        {
+            "from": "full~com.~0x55a325737a860^46~0x59cc1682",
+            "id": "full~com.~0x55a325737a860^46~0x59cc1682|struggle~com.~0x55a325737cb1f^58~0x59cc168c",
+            "label": "parataxis",
+            "title": "*Freq: 2 <br>*Labels: <br>parataxis^2",
+            "to": "struggle~com.~0x55a325737cb1f^58~0x59cc168c",
+            "value": 2
+        },
+        {
+            "from": "garden~com.~0x55a32573790c9^35~0x59cc16b1",
+            "id": "garden~com.~0x55a32573790c9^35~0x59cc16b1|matter~com.~0x55a3257377d49^29~0x59cc165b",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "matter~com.~0x55a3257377d49^29~0x59cc165b",
+            "value": 2
+        },
+        {
+            "from": "garden~com.~0x55a32573790c9^35~0x59cc16b1",
+            "id": "garden~com.~0x55a32573790c9^35~0x59cc16b1|sort~com.~0x55a3257377d49^29~0x59cc1651",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "sort~com.~0x55a3257377d49^29~0x59cc1651",
+            "value": 2
+        },
+        {
+            "from": "weekly_bin_space~art.6~~0x59cc1611",
+            "id": "weekly_bin_space~art.6~~0x59cc1611|adult~com.~0x55a325737f242^76~0x59cc1701",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "adult~com.~0x55a325737f242^76~0x59cc1701",
+            "value": 2
+        },
+        {
+            "from": "stuff~com.~0x55a3257374c7f^7~0x59cc162b",
+            "id": "stuff~com.~0x55a3257374c7f^7~0x59cc162b|compost~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "acl",
+            "title": "*Freq: 2 <br>*Labels: <br>acl^2",
+            "to": "compost~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 2
+        },
+        {
+            "from": "stuff~com.~0x55a3257374c7f^7~0x59cc162b",
+            "id": "stuff~com.~0x55a3257374c7f^7~0x59cc162b|recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704",
+            "label": "nsubj",
+            "title": "*Freq: 2 <br>*Labels: <br>nsubj^2",
+            "to": "recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704",
+            "value": 2
+        },
+        {
+            "from": "rat~com.~0x55a3257379ff9^41~0x59cc16af",
+            "id": "rat~com.~0x55a3257379ff9^41~0x59cc16af|size~com.~0x55a3257379cc1^39~0x59cc167c",
+            "label": "dep",
+            "title": "*Freq: 4 <br>*Labels: <br>dep^4",
+            "to": "size~com.~0x55a3257379cc1^39~0x59cc167c",
+            "value": 4
+        },
+        {
+            "from": "rat~com.~0x55a3257379ff9^41~0x59cc16af",
+            "id": "rat~com.~0x55a3257379ff9^41~0x59cc16af|vermin~art.5~~0x59cc1606",
+            "label": "conj",
+            "title": "*Freq: 4 <br>*Labels: <br>conj^4",
+            "to": "vermin~art.5~~0x59cc1606",
+            "value": 4
+        },
+        {
+            "from": "rat~com.~0x55a3257379ff9^41~0x59cc16af",
+            "id": "rat~com.~0x55a3257379ff9^41~0x59cc16af|look~com.~0x55a3257374aa9^6~0x59cc1624",
+            "label": "GO",
+            "title": "*Freq: 2 <br>*Labels: <br>GO^2",
+            "to": "look~com.~0x55a3257374aa9^6~0x59cc1624",
+            "value": 2
+        },
+        {
+            "from": "rat~com.~0x55a3257379ff9^41~0x59cc16af",
+            "id": "rat~com.~0x55a3257379ff9^41~0x59cc16af|fox~com.~0x55a3257374398^2~0x59cc161d",
+            "label": "conj",
+            "title": "*Freq: 2 <br>*Labels: <br>conj^2",
+            "to": "fox~com.~0x55a3257374398^2~0x59cc161d",
+            "value": 2
+        },
+        {
+            "from": "borough~art.5~~0x59cc1607",
+            "id": "borough~art.5~~0x59cc1607|compost~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "acl",
+            "title": "*Freq: 2 <br>*Labels: <br>acl^2",
+            "to": "compost~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 2
+        },
+        {
+            "from": "weekly_bin_collections~com.~0x55a325737f845^78~0x59cc16c8",
+            "id": "weekly_bin_collections~com.~0x55a325737f845^78~0x59cc16c8|think~com.~0x55a3257378127^30~0x59cc1643",
+            "label": "dep",
+            "title": "*Freq: 2 <br>*Labels: <br>dep^2",
+            "to": "think~com.~0x55a3257378127^30~0x59cc1643",
+            "value": 2
+        },
+        {
+            "from": "weekly_bin_collections~com.~0x55a325737f845^78~0x59cc16c8",
+            "id": "weekly_bin_collections~com.~0x55a325737f845^78~0x59cc16c8|fortnightly~com.~0x55a3257380ca3^87~0x59cc1710",
+            "label": "amod",
+            "title": "*Freq: 2 <br>*Labels: <br>amod^2",
+            "to": "fortnightly~com.~0x55a3257380ca3^87~0x59cc1710",
+            "value": 2
+        },
+        {
+            "from": "extra_grey_bin~art.6~~0x59cc160d",
+            "id": "extra_grey_bin~art.6~~0x59cc160d|week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "value": 2
+        },
+        {
+            "from": "council~art.0~~0x59cc15d8",
+            "id": "council~art.0~~0x59cc15d8|service~com.~0x55a3257376f7a^23~0x59cc166d",
+            "label": "PERFORM",
+            "title": "*Freq: 2 <br>*Labels: <br>PERFORM^2",
+            "to": "service~com.~0x55a3257376f7a^23~0x59cc166d",
+            "value": 2
+        },
+        {
+            "from": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "id": "rubbish~com.~0x55a32573748dd^5~0x59cc162a|non-recyclable_rubbish~com.~0x55a325738243e^100~0x59cc16c9",
+            "label": "amod",
+            "title": "*Freq: 2 <br>*Labels: <br>amod^2",
+            "to": "non-recyclable_rubbish~com.~0x55a325738243e^100~0x59cc16c9",
+            "value": 2
+        },
+        {
+            "from": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "id": "rubbish~com.~0x55a32573748dd^5~0x59cc162a|recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "label": "acl",
+            "title": "*Freq: 2 <br>*Labels: <br>acl^2",
+            "to": "recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "value": 2
+        },
+        {
+            "from": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "id": "rubbish~com.~0x55a32573748dd^5~0x59cc162a|full~com.~0x55a325737a860^46~0x59cc1682",
+            "label": "case",
+            "title": "*Freq: 2 <br>*Labels: <br>case^2",
+            "to": "full~com.~0x55a325737a860^46~0x59cc1682",
+            "value": 2
+        },
+        {
+            "from": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "id": "rubbish~com.~0x55a32573748dd^5~0x59cc162a|little~com.~0x55a325737c5e5^57~0x59cc16e1",
+            "label": "amod",
+            "title": "*Freq: 2 <br>*Labels: <br>amod^2",
+            "to": "little~com.~0x55a325737c5e5^57~0x59cc16e1",
+            "value": 2
+        },
+        {
+            "from": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "id": "rubbish~com.~0x55a32573748dd^5~0x59cc162a|vermin~art.5~~0x59cc1606",
+            "label": "ATTRACT",
+            "title": "*Freq: 2 <br>*Labels: <br>ATTRACT^2",
+            "to": "vermin~art.5~~0x59cc1606",
+            "value": 2
+        },
+        {
+            "from": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "id": "rubbish~com.~0x55a32573748dd^5~0x59cc162a|house~com.~0x55a325737cb1f^58~0x59cc1695",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "house~com.~0x55a325737cb1f^58~0x59cc1695",
+            "value": 2
+        },
+        {
+            "from": "vermin~art.5~~0x59cc1606",
+            "id": "vermin~art.5~~0x59cc1606|fly-tipping~art.5~~0x59cc1604",
+            "label": "conj",
+            "title": "*Freq: 2 <br>*Labels: <br>conj^2",
+            "to": "fly-tipping~art.5~~0x59cc1604",
+            "value": 2
+        },
+        {
+            "from": "vermin~art.5~~0x59cc1606",
+            "id": "vermin~art.5~~0x59cc1606|look~com.~0x55a3257374aa9^6~0x59cc1624",
+            "label": "GO",
+            "title": "*Freq: 2 <br>*Labels: <br>GO^2",
+            "to": "look~com.~0x55a3257374aa9^6~0x59cc1624",
+            "value": 2
+        },
+        {
+            "from": "disposable_nappies~com.~0x55a3257375e6b^15~0x59cc164d",
+            "id": "disposable_nappies~com.~0x55a3257375e6b^15~0x59cc164d|recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "label": "amod",
+            "title": "*Freq: 2 <br>*Labels: <br>amod^2",
+            "to": "recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "value": 2
+        },
+        {
+            "from": "disposable_nappies~com.~0x55a3257375e6b^15~0x59cc164d",
+            "id": "disposable_nappies~com.~0x55a3257375e6b^15~0x59cc164d|extra_grey_bin~art.6~~0x59cc160d",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "extra_grey_bin~art.6~~0x59cc160d",
+            "value": 2
+        },
+        {
+            "from": "public_health~art.5~~0x59cc1606",
+            "id": "public_health~art.5~~0x59cc1606|article~com.~0x55a3257375243^10~0x59cc1625",
+            "label": "dep",
+            "title": "*Freq: 2 <br>*Labels: <br>dep^2",
+            "to": "article~com.~0x55a3257375243^10~0x59cc1625",
+            "value": 2
+        },
+        {
+            "from": "councillor~com.~0x55a3257379ff9^41~0x59cc16af",
+            "id": "councillor~com.~0x55a3257379ff9^41~0x59cc16af|bury~com.~0x55a325737ce77^59~0x59cc16b0",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "bury~com.~0x55a325737ce77^59~0x59cc16b0",
+            "value": 2
+        },
+        {
+            "from": "councillor~com.~0x55a3257379ff9^41~0x59cc16af",
+            "id": "councillor~com.~0x55a3257379ff9^41~0x59cc16af|vote~com.~0x55a3257376f7a^23~0x59cc167b",
+            "label": "ccomp",
+            "title": "*Freq: 2 <br>*Labels: <br>ccomp^2",
+            "to": "vote~com.~0x55a3257376f7a^23~0x59cc167b",
+            "value": 2
+        },
+        {
+            "from": "compost~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "compost~com.~0x55a325737592a^13~0x59cc163e|package~com.~0x55a3257377d49^29~0x59cc166a",
+            "label": "advcl",
+            "title": "*Freq: 2 <br>*Labels: <br>advcl^2",
+            "to": "package~com.~0x55a3257377d49^29~0x59cc166a",
+            "value": 2
+        },
+        {
+            "from": "compost~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "compost~com.~0x55a325737592a^13~0x59cc163e|winter~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "winter~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 2
+        },
+        {
+            "from": "compost~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "compost~com.~0x55a325737592a^13~0x59cc163e|stuff~com.~0x55a3257374c7f^7~0x59cc162b",
+            "label": "BE",
+            "title": "*Freq: 2 <br>*Labels: <br>BE^2",
+            "to": "stuff~com.~0x55a3257374c7f^7~0x59cc162b",
+            "value": 2
+        },
+        {
+            "from": "non-recyclable_rubbish~com.~0x55a325738243e^100~0x59cc16c9",
+            "id": "non-recyclable_rubbish~com.~0x55a325738243e^100~0x59cc16c9|week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "value": 2
+        },
+        {
+            "from": "bury~com.~0x55a325737ce77^59~0x59cc16b0",
+            "id": "bury~com.~0x55a325737ce77^59~0x59cc16b0|year~art.2~~0x59cc15e9",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "year~art.2~~0x59cc15e9",
+            "value": 2
+        },
+        {
+            "from": "bury~com.~0x55a325737ce77^59~0x59cc16b0",
+            "id": "bury~com.~0x55a325737ce77^59~0x59cc16b0|recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "label": "dep",
+            "title": "*Freq: 2 <br>*Labels: <br>dep^2",
+            "to": "recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "value": 2
+        },
+        {
+            "from": "bury~com.~0x55a325737ce77^59~0x59cc16b0",
+            "id": "bury~com.~0x55a325737ce77^59~0x59cc16b0|bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "label": "PROVIDE",
+            "title": "*Freq: 2 <br>*Labels: <br>PROVIDE^2",
+            "to": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "value": 2
+        },
+        {
+            "from": "food~com.~0x55a3257377d49^29~0x59cc1671",
+            "id": "food~com.~0x55a3257377d49^29~0x59cc1671|compost~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "compost~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 2
+        },
+        {
+            "from": "food~com.~0x55a3257377d49^29~0x59cc1671",
+            "id": "food~com.~0x55a3257377d49^29~0x59cc1671|garden_waste~com.~0x55a32573754dd^11~0x59cc1644",
+            "label": "conj",
+            "title": "*Freq: 4 <br>*Labels: <br>conj^4",
+            "to": "garden_waste~com.~0x55a32573754dd^11~0x59cc1644",
+            "value": 4
+        },
+        {
+            "from": "service~com.~0x55a3257376f7a^23~0x59cc166d",
+            "id": "service~com.~0x55a3257376f7a^23~0x59cc166d|matter~com.~0x55a3257377d49^29~0x59cc165b",
+            "label": "acl",
+            "title": "*Freq: 2 <br>*Labels: <br>acl^2",
+            "to": "matter~com.~0x55a3257377d49^29~0x59cc165b",
+            "value": 2
+        },
+        {
+            "from": "service~com.~0x55a3257376f7a^23~0x59cc166d",
+            "id": "service~com.~0x55a3257376f7a^23~0x59cc166d|council~art.0~~0x59cc15d8",
+            "label": "dep",
+            "title": "*Freq: 2 <br>*Labels: <br>dep^2",
+            "to": "council~art.0~~0x59cc15d8",
+            "value": 2
+        },
+        {
+            "from": "end~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "end~com.~0x55a325737592a^13~0x59cc163e|cardboard~com.~0x55a325737f242^76~0x59cc1704",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "cardboard~com.~0x55a325737f242^76~0x59cc1704",
+            "value": 2
+        },
+        {
+            "from": "end~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "end~com.~0x55a325737592a^13~0x59cc163e|waste~art.6~~0x59cc1612",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "waste~art.6~~0x59cc1612",
+            "value": 2
+        },
+        {
+            "from": "article~com.~0x55a3257375243^10~0x59cc1625",
+            "id": "article~com.~0x55a3257375243^10~0x59cc1625|nappy~com.~0x55a325737cb1f^58~0x59cc168c",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "nappy~com.~0x55a325737cb1f^58~0x59cc168c",
+            "value": 2
+        },
+        {
+            "from": "green~art.6~~0x59cc1611",
+            "id": "green~art.6~~0x59cc1611|blue~art.6~~0x59cc1611",
+            "label": "conj",
+            "title": "*Freq: 4 <br>*Labels: <br>conj^4",
+            "to": "blue~art.6~~0x59cc1611",
+            "value": 4
+        },
+        {
+            "from": "green~art.6~~0x59cc1611",
+            "id": "green~art.6~~0x59cc1611|waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "conj",
+            "title": "*Freq: 4 <br>*Labels: <br>conj^4",
+            "to": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 4
+        },
+        {
+            "from": "think~com.~0x55a3257378127^30~0x59cc1643",
+            "id": "think~com.~0x55a3257378127^30~0x59cc1643|garden~com.~0x55a32573790c9^35~0x59cc16b1",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "garden~com.~0x55a32573790c9^35~0x59cc16b1",
+            "value": 2
+        },
+        {
+            "from": "think~com.~0x55a3257378127^30~0x59cc1643",
+            "id": "think~com.~0x55a3257378127^30~0x59cc1643|matter~com.~0x55a3257377d49^29~0x59cc165b",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "matter~com.~0x55a3257377d49^29~0x59cc165b",
+            "value": 2
+        },
+        {
+            "from": "move~art.2~~0x59cc15e8",
+            "id": "move~art.2~~0x59cc15e8|vermin~art.5~~0x59cc1606",
+            "label": "ATTRACT",
+            "title": "*Freq: 2 <br>*Labels: <br>ATTRACT^2",
+            "to": "vermin~art.5~~0x59cc1606",
+            "value": 2
+        },
+        {
+            "from": "move~art.2~~0x59cc15e8",
+            "id": "move~art.2~~0x59cc15e8|fox~com.~0x55a3257374398^2~0x59cc161d",
+            "label": "ATTRACT",
+            "title": "*Freq: 2 <br>*Labels: <br>ATTRACT^2",
+            "to": "fox~com.~0x55a3257374398^2~0x59cc161d",
+            "value": 2
+        },
+        {
+            "from": "able~com.~0x55a325737f845^78~0x59cc16cb",
+            "id": "able~com.~0x55a325737f845^78~0x59cc16cb|disposable_nappies~com.~0x55a3257375e6b^15~0x59cc164d",
+            "label": "advcl",
+            "title": "*Freq: 2 <br>*Labels: <br>advcl^2",
+            "to": "disposable_nappies~com.~0x55a3257375e6b^15~0x59cc164d",
+            "value": 2
+        },
+        {
+            "from": "able~com.~0x55a325737f845^78~0x59cc16cb",
+            "id": "able~com.~0x55a325737f845^78~0x59cc16cb|family~com.~0x55a3257377428^25~0x59cc166e",
+            "label": "nsubj",
+            "title": "*Freq: 2 <br>*Labels: <br>nsubj^2",
+            "to": "family~com.~0x55a3257377428^25~0x59cc166e",
+            "value": 2
+        },
+        {
+            "from": "able~com.~0x55a325737f845^78~0x59cc16cb",
+            "id": "able~com.~0x55a325737f845^78~0x59cc16cb|people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "label": "nsubj",
+            "title": "*Freq: 2 <br>*Labels: <br>nsubj^2",
+            "to": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "value": 2
+        },
+        {
+            "from": "empty~art.5~~0x59cc1604",
+            "id": "empty~art.5~~0x59cc1604|bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "label": "BE",
+            "title": "*Freq: 2 <br>*Labels: <br>BE^2",
+            "to": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "value": 2
+        },
+        {
+            "from": "empty~art.5~~0x59cc1604",
+            "id": "empty~art.5~~0x59cc1604|waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "BE",
+            "title": "*Freq: 4 <br>*Labels: <br>BE^4",
+            "to": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 4
+        },
+        {
+            "from": "empty~art.5~~0x59cc1604",
+            "id": "empty~art.5~~0x59cc1604|change~art.6~~0x59cc1611",
+            "label": "conj",
+            "title": "*Freq: 2 <br>*Labels: <br>conj^2",
+            "to": "change~art.6~~0x59cc1611",
+            "value": 2
+        },
+        {
+            "from": "lead~art.2~~0x59cc15ed",
+            "id": "lead~art.2~~0x59cc15ed|public_health~art.5~~0x59cc1606",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "public_health~art.5~~0x59cc1606",
+            "value": 2
+        },
+        {
+            "from": "lead~art.2~~0x59cc15ed",
+            "id": "lead~art.2~~0x59cc15ed|move~art.2~~0x59cc15e8",
+            "label": "nsubj",
+            "title": "*Freq: 2 <br>*Labels: <br>nsubj^2",
+            "to": "move~art.2~~0x59cc15e8",
+            "value": 2
+        },
+        {
+            "from": "flat~com.~0x55a3257375243^10~0x59cc1625",
+            "id": "flat~com.~0x55a3257375243^10~0x59cc1625|rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "label": "HAVE",
+            "title": "*Freq: 2 <br>*Labels: <br>HAVE^2",
+            "to": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "value": 2
+        },
+        {
+            "from": "flat~com.~0x55a3257375243^10~0x59cc1625",
+            "id": "flat~com.~0x55a3257375243^10~0x59cc1625|adult~com.~0x55a325737f242^76~0x59cc1701",
+            "label": "appos",
+            "title": "*Freq: 2 <br>*Labels: <br>appos^2",
+            "to": "adult~com.~0x55a325737f242^76~0x59cc1701",
+            "value": 2
+        },
+        {
+            "from": "flat~com.~0x55a3257375243^10~0x59cc1625",
+            "id": "flat~com.~0x55a3257375243^10~0x59cc1625|offer_weekly_collections~com.~0x55a3257376f7a^23~0x59cc1681",
+            "label": "HAVE",
+            "title": "*Freq: 2 <br>*Labels: <br>HAVE^2",
+            "to": "offer_weekly_collections~com.~0x55a3257376f7a^23~0x59cc1681",
+            "value": 2
+        },
+        {
+            "from": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "id": "bin~com.~0x55a325737e8d0^71~0x59cc16f6|green~art.6~~0x59cc1611",
+            "label": "amod",
+            "title": "*Freq: 2 <br>*Labels: <br>amod^2",
+            "to": "green~art.6~~0x59cc1611",
+            "value": 2
+        },
+        {
+            "from": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "id": "bin~com.~0x55a325737e8d0^71~0x59cc16f6|collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "value": 2
+        },
+        {
+            "from": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "id": "bin~com.~0x55a325737e8d0^71~0x59cc16f6|week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "value": 2
+        },
+        {
+            "from": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "id": "bin~com.~0x55a325737e8d0^71~0x59cc16f6|recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704",
+            "label": "nmod",
+            "title": "*Freq: 4 <br>*Labels: <br>nmod^4",
+            "to": "recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704",
+            "value": 4
+        },
+        {
+            "from": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "id": "bin~com.~0x55a325737e8d0^71~0x59cc16f6|family~com.~0x55a3257377428^25~0x59cc166e",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "family~com.~0x55a3257377428^25~0x59cc166e",
+            "value": 2
+        },
+        {
+            "from": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "id": "bin~com.~0x55a325737e8d0^71~0x59cc16f6|rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "value": 2
+        },
+        {
+            "from": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "id": "bin~com.~0x55a325737e8d0^71~0x59cc16f6|blue~art.6~~0x59cc1611",
+            "label": "amod",
+            "title": "*Freq: 2 <br>*Labels: <br>amod^2",
+            "to": "blue~art.6~~0x59cc1611",
+            "value": 2
+        },
+        {
+            "from": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "id": "bin~com.~0x55a325737e8d0^71~0x59cc16f6|waste~art.6~~0x59cc1612",
+            "label": "conj",
+            "title": "*Freq: 2 <br>*Labels: <br>conj^2",
+            "to": "waste~art.6~~0x59cc1612",
+            "value": 2
+        },
+        {
+            "from": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "id": "bin~com.~0x55a325737e8d0^71~0x59cc16f6|garden_waste~com.~0x55a32573754dd^11~0x59cc1644",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "garden_waste~com.~0x55a32573754dd^11~0x59cc1644",
+            "value": 2
+        },
+        {
+            "from": "little~com.~0x55a325737c5e5^57~0x59cc16e1",
+            "id": "little~com.~0x55a325737c5e5^57~0x59cc16e1|winter~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "'S",
+            "title": "*Freq: 2 <br>*Labels: <br>'S^2",
+            "to": "winter~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 2
+        },
+        {
+            "from": "recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "id": "recycle~com.~0x55a325737835e^31~0x59cc167a|waste~art.6~~0x59cc1612",
+            "label": "BE",
+            "title": "*Freq: 2 <br>*Labels: <br>BE^2",
+            "to": "waste~art.6~~0x59cc1612",
+            "value": 2
+        },
+        {
+            "from": "recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "id": "recycle~com.~0x55a325737835e^31~0x59cc167a|rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "label": "BE",
+            "title": "*Freq: 4 <br>*Labels: <br>BE^2<br>  -amod^2",
+            "to": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "value": 4
+        },
+        {
+            "from": "cardboard~com.~0x55a325737f242^76~0x59cc1704",
+            "id": "cardboard~com.~0x55a325737f242^76~0x59cc1704|year~art.2~~0x59cc15e9",
+            "label": "compound",
+            "title": "*Freq: 2 <br>*Labels: <br>compound^2",
+            "to": "year~art.2~~0x59cc15e9",
+            "value": 2
+        },
+        {
+            "from": "cardboard~com.~0x55a325737f242^76~0x59cc1704",
+            "id": "cardboard~com.~0x55a325737f242^76~0x59cc1704|fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "label": "GO",
+            "title": "*Freq: 2 <br>*Labels: <br>GO^2",
+            "to": "fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "value": 2
+        },
+        {
+            "from": "sort~com.~0x55a3257377d49^29~0x59cc1651",
+            "id": "sort~com.~0x55a3257377d49^29~0x59cc1651|fly-tipping~art.5~~0x59cc1604",
+            "label": "dobj",
+            "title": "*Freq: 2 <br>*Labels: <br>dobj^2",
+            "to": "fly-tipping~art.5~~0x59cc1604",
+            "value": 2
+        },
+        {
+            "from": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "waste_bin~com.~0x55a325737592a^13~0x59cc163e|green~art.6~~0x59cc1611",
+            "label": "amod",
+            "title": "*Freq: 4 <br>*Labels: <br>amod^4",
+            "to": "green~art.6~~0x59cc1611",
+            "value": 4
+        },
+        {
+            "from": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "waste_bin~com.~0x55a325737592a^13~0x59cc163e|family~com.~0x55a3257377428^25~0x59cc166e",
+            "label": "dep",
+            "title": "*Freq: 4 <br>*Labels: <br>dep^4",
+            "to": "family~com.~0x55a3257377428^25~0x59cc166e",
+            "value": 4
+        },
+        {
+            "from": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "waste_bin~com.~0x55a325737592a^13~0x59cc163e|week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "label": "nmod",
+            "title": "*Freq: 4 <br>*Labels: <br>nmod^4",
+            "to": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "value": 4
+        },
+        {
+            "from": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "waste_bin~com.~0x55a325737592a^13~0x59cc163e|food~com.~0x55a3257377d49^29~0x59cc1671",
+            "label": "TAKE",
+            "title": "*Freq: 4 <br>*Labels: <br>TAKE^4",
+            "to": "food~com.~0x55a3257377d49^29~0x59cc1671",
+            "value": 4
+        },
+        {
+            "from": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "waste_bin~com.~0x55a325737592a^13~0x59cc163e|extra_grey_bin~art.6~~0x59cc160d",
+            "label": "compound",
+            "title": "*Freq: 4 <br>*Labels: <br>compound^4",
+            "to": "extra_grey_bin~art.6~~0x59cc160d",
+            "value": 4
+        },
+        {
+            "from": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "waste_bin~com.~0x55a325737592a^13~0x59cc163e|blue~art.6~~0x59cc1611",
+            "label": "amod",
+            "title": "*Freq: 8 <br>*Labels: <br>amod^8",
+            "to": "blue~art.6~~0x59cc1611",
+            "value": 8
+        },
+        {
+            "from": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "waste_bin~com.~0x55a325737592a^13~0x59cc163e|garden_waste~com.~0x55a32573754dd^11~0x59cc1644",
+            "label": "TAKE",
+            "title": "*Freq: 4 <br>*Labels: <br>TAKE^4",
+            "to": "garden_waste~com.~0x55a32573754dd^11~0x59cc1644",
+            "value": 4
+        },
+        {
+            "from": "house~com.~0x55a325737cb1f^58~0x59cc1695",
+            "id": "house~com.~0x55a325737cb1f^58~0x59cc1695|fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "label": "conj",
+            "title": "*Freq: 2 <br>*Labels: <br>conj^2",
+            "to": "fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "value": 2
+        },
+        {
+            "from": "waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2",
+            "id": "waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2|bit~com.~0x55a3257377d49^29~0x59cc1671",
+            "label": "ccomp",
+            "title": "*Freq: 4 <br>*Labels: <br>ccomp^4",
+            "to": "bit~com.~0x55a3257377d49^29~0x59cc1671",
+            "value": 4
+        },
+        {
+            "from": "waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2",
+            "id": "waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2|food~com.~0x55a3257377d49^29~0x59cc1671",
+            "label": "compound",
+            "title": "*Freq: 4 <br>*Labels: <br>compound^4",
+            "to": "food~com.~0x55a3257377d49^29~0x59cc1671",
+            "value": 4
+        },
+        {
+            "from": "waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2",
+            "id": "waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2|example~art.5~~0x59cc1604",
+            "label": "nmod",
+            "title": "*Freq: 4 <br>*Labels: <br>nmod^4",
+            "to": "example~art.5~~0x59cc1604",
+            "value": 4
+        },
+        {
+            "from": "look~com.~0x55a3257374aa9^6~0x59cc1624",
+            "id": "look~com.~0x55a3257374aa9^6~0x59cc1624|package~com.~0x55a3257377d49^29~0x59cc166a",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "package~com.~0x55a3257377d49^29~0x59cc166a",
+            "value": 2
+        },
+        {
+            "from": "look~com.~0x55a3257374aa9^6~0x59cc1624",
+            "id": "look~com.~0x55a3257374aa9^6~0x59cc1624|resident~com.~0x55a325737b61f^51~0x59cc16c8",
+            "label": "nsubj",
+            "title": "*Freq: 2 <br>*Labels: <br>nsubj^2",
+            "to": "resident~com.~0x55a325737b61f^51~0x59cc16c8",
+            "value": 2
+        },
+        {
+            "from": "cut~com.~0x55a32573754dd^11~0x59cc1644",
+            "id": "cut~com.~0x55a32573754dd^11~0x59cc1644|year~art.2~~0x59cc15e9",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "year~art.2~~0x59cc15e9",
+            "value": 2
+        },
+        {
+            "from": "cut~com.~0x55a32573754dd^11~0x59cc1644",
+            "id": "cut~com.~0x55a32573754dd^11~0x59cc1644|family~com.~0x55a3257377428^25~0x59cc166e",
+            "label": "nsubj",
+            "title": "*Freq: 2 <br>*Labels: <br>nsubj^2",
+            "to": "family~com.~0x55a3257377428^25~0x59cc166e",
+            "value": 2
+        },
+        {
+            "from": "cut~com.~0x55a32573754dd^11~0x59cc1644",
+            "id": "cut~com.~0x55a32573754dd^11~0x59cc1644|collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "label": "nmod",
+            "title": "*Freq: 2 <br>*Labels: <br>nmod^2",
+            "to": "collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "value": 2
+        },
+        {
+            "from": "cut~com.~0x55a32573754dd^11~0x59cc1644",
+            "id": "cut~com.~0x55a32573754dd^11~0x59cc1644|council~art.0~~0x59cc15d8",
+            "label": "nsubj",
+            "title": "*Freq: 2 <br>*Labels: <br>nsubj^2",
+            "to": "council~art.0~~0x59cc15d8",
+            "value": 2
+        },
+        {
+            "from": "cut~com.~0x55a32573754dd^11~0x59cc1644",
+            "id": "cut~com.~0x55a32573754dd^11~0x59cc1644|amount~com.~0x55a32573754dd^11~0x59cc1644",
+            "label": "dobj",
+            "title": "*Freq: 2 <br>*Labels: <br>dobj^2",
+            "to": "amount~com.~0x55a32573754dd^11~0x59cc1644",
+            "value": 2
+        },
+        {
+            "from": "winter~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "winter~com.~0x55a325737592a^13~0x59cc163e|garden_waste~com.~0x55a32573754dd^11~0x59cc1644",
+            "label": "conj",
+            "title": "*Freq: 3 <br>*Labels: <br>conj^2<br>  -TAKE^1",
+            "to": "garden_waste~com.~0x55a32573754dd^11~0x59cc1644",
+            "value": 3
+        },
+        {
+            "from": "winter~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "winter~com.~0x55a325737592a^13~0x59cc163e|waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "TAKE",
+            "title": "*Freq: 4 <br>*Labels: <br>TAKE^4",
+            "to": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "value": 4
+        },
+        {
+            "from": "winter~com.~0x55a325737592a^13~0x59cc163e",
+            "id": "winter~com.~0x55a325737592a^13~0x59cc163e|food~com.~0x55a3257377d49^29~0x59cc1671",
+            "label": "TAKE",
+            "title": "*Freq: 2 <br>*Labels: <br>TAKE^2",
+            "to": "food~com.~0x55a3257377d49^29~0x59cc1671",
+            "value": 2
+        },
+        {
+            "from": "adult~com.~0x55a325737f242^76~0x59cc1701",
+            "id": "adult~com.~0x55a325737f242^76~0x59cc1701|baby~com.~0x55a325737c2ba^56~0x59cc16e3",
+            "label": "appos",
+            "title": "*Freq: 2 <br>*Labels: <br>appos^2",
+            "to": "baby~com.~0x55a325737c2ba^56~0x59cc16e3",
+            "value": 2
+        }
+    ],
+    "nodes": [
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ff9800",
+            "group": "article",
+            "id": "collection~com.~0x55a3257376c07^21~0x59cc165b",
+            "label": "collection",
+            "title": "\u272dNodeID: collection~com.~0x55a3257376c07^21~0x59cc165b <br> \u272d Freq: 13 <br> \u272d Sen_Score: -0.0263 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 6, \"neg_count\": 5} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: art.6,art.0,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize collection^1<br> - Joined with : Initialize collection^1 (collection~art.6~~0x59cc160f)<br> \u00bb collection^2<br> - Joined with : Initialize collection^1 (collection~art.0~~0x59cc15d8)<br> \u00bb collection^3<br> - Joined with : Initialize collection^1 (collection~com.~0x55a3257376f7a^23~0x59cc165f)<br> \u00bb collection^4<br> - Joined with : Initialize collection^1 (collection~com.~0x55a325737b61f^51~0x59cc16be)<br> \u00bb collection^5<br> - Joined with : Initialize collection^1 (collection~com.~0x55a325737835e^31~0x59cc167a)<br> \u00bb collection^6<br> - Joined with : Initialize collection^1 (collection~com.~0x55a325737cb1f^58~0x59cc1695)<br> \u00bb collection^7<br> - Joined with : Initialize collection^1 (collection~com.~0x55a3257379513^36~0x59cc1654)<br> \u00bb collection^8<br> - Joined with : Initialize collection^1 (collection~com.~0x55a325737592a^13~0x59cc1646)<br> \u00bb collection^9<br> - Joined with : Initialize collection^1 (collection~com.~0x55a32573756f3^12~0x59cc1627)<br> \u00bb collection^10<br> - Joined with : Initialize collection^1 (collection~com.~0x55a325737f242^76~0x59cc1701)<br> \u00bb collection^11<br> - Joined with : Initialize collection^1 (collection~com.~0x55a3257380aa4^86~0x59cc1708)<br> \u00bb collection^12<br> - Joined with : Initialize collection^1 (collection~com.~0x55a3257377b20^28~0x59cc1641)<br> \u00bb collection^13",
+            "value": 13
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ffb000",
+            "group": "article",
+            "id": "desperate_cost~art.2~~0x59cc15e9",
+            "label": "desperate_cost",
+            "title": "\u272dNodeID: desperate_cost~art.2~~0x59cc15e9 <br> \u272d Freq: 4 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 0, \"neg_count\": 2} <br> \u272d POS: JJ <br> \u272d Group_ids: art.0,art.2 <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize desperate_cost^1<br> - Joined with : Initialize desperate_cost^1 (desperate_cost~art.0~~0x59cc15d7)<br> \u00bb desperate_cost^2<br> - Joined with : Initialize desperate_cost^1 (desperate_cost~art.2~~0x59cc15e8)<br> \u00bb desperate_cost^3<br> - Joined with : Initialize desperate_cost^1 (desperate_cost~art.2~~0x59cc15ea)<br> \u00bb desperate_cost^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ff9800",
+            "group": "comment",
+            "id": "recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704",
+            "label": "food_waste",
+            "title": "\u272dNodeID: recycle_food_waste~com.~0x55a325737f242^76~0x59cc1704 <br> \u272d Freq: 9 <br> \u272d Sen_Score: -0.0263 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 4, \"neg_count\": 4} <br> \u272d POS: VBP,NNS,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize recycle_food_waste^1 <br> - Contracted with food_waste^7 (food_waste~com.~0x55a3257375e6b^15~0x59cc163a) <br> - Contracted with waste_food^1 (waste_food~com.~0x55a3257374c7f^7~0x59cc1626)",
+            "value": 9
+        },
+        {
+            "cid": "\u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY",
+            "color": "#ffb000",
+            "group": "comment",
+            "id": "baby~com.~0x55a325737c2ba^56~0x59cc16e3",
+            "label": "baby",
+            "title": "\u272dNodeID: baby~com.~0x55a325737c2ba^56~0x59cc16e3 <br> \u272d Freq: 4 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 2, \"neg_count\": 1} <br> \u272d POS: NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY <br> \u272d History: <br> - Initialize baby^1<br> - Joined with : Initialize baby^1 (baby~com.~0x55a32573790c9^35~0x59cc1695)<br> \u00bb baby^2<br> - Joined with : Initialize baby^1 (baby~com.~0x55a32573790c9^35~0x59cc1699)<br> \u00bb baby^3<br> - Joined with : Initialize baby^1 (baby~com.~0x55a3257378a79^33~0x59cc1690)<br> \u00bb baby^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ff8000",
+            "group": "article",
+            "id": "people~com.~0x55a325737ce77^59~0x59cc16aa",
+            "label": "people",
+            "title": "\u272dNodeID: people~com.~0x55a325737ce77^59~0x59cc16aa <br> \u272d Freq: 18 <br> \u272d Sen_Score: -0.0526 <br> \u272d Sentiment: {\"pos_count\": 4, \"neu_count\": 4, \"neg_count\": 10} <br> \u272d POS: NNS <br> \u272d Group_ids: art.1,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize people^1<br> - Joined with : Initialize people^1 (people~art.1~~0x59cc15de)<br> \u00bb people^2<br> - Joined with : Initialize people^1 (people~com.~0x55a325737f845^78~0x59cc16cb)<br> \u00bb people^3<br> - Joined with : Initialize people^1 (people~com.~0x55a3257379513^36~0x59cc165f)<br> \u00bb people^4<br> - Joined with : Initialize people^1 (people~com.~0x55a325737e0cd^66~0x59cc16fb)<br> \u00bb people^5<br> - Joined with : Initialize people^1 (people~com.~0x55a3257374398^2~0x59cc161d)<br> \u00bb people^6<br> - Joined with : Initialize people^1 (people~com.~0x55a3257374739^4~0x59cc1622)<br> \u00bb people^7<br> - Joined with : Initialize people^1 (people~com.~0x55a3257378a79^33~0x59cc16bc)<br> \u00bb people^8<br> - Joined with : Initialize people^1 (people~com.~0x55a325737592a^13~0x59cc1646)<br> \u00bb people^9<br> - Joined with : Initialize people^1 (people~com.~0x55a325737c2ba^56~0x59cc16ee)<br> \u00bb people^10<br> - Joined with : Initialize people^1 (people~com.~0x55a3257380502^83~0x59cc16f7)<br> \u00bb people^11<br> - Joined with : Initialize people^1 (people~com.~0x55a325737ee5c^74~0x59cc16b5)<br> \u00bb people^12<br> - Joined with : Initialize people^1 (people~com.~0x55a325737f845^78~0x59cc16c0)<br> \u00bb people^13<br> - Joined with : Initialize people^1 (people~com.~0x55a3257376f7a^23~0x59cc167b)<br> \u00bb people^14<br> - Joined with : Initialize people^1 (people~com.~0x55a3257380371^82~0x59cc16a0)<br> \u00bb people^15<br> - Joined with : Initialize people^1 (people~com.~0x55a32573808c3^85~0x59cc1700)<br> \u00bb people^16<br> - Joined with : Initialize people^1 (people~com.~0x55a325737b3eb^50~0x59cc1663)<br> \u00bb people^17<br> - Joined with : Initialize people^1 (people~com.~0x55a325737c2ba^56~0x59cc16f4)<br> \u00bb people^18",
+            "value": 18
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffb000",
+            "group": "comment",
+            "id": "matter~com.~0x55a3257377d49^29~0x59cc165b",
+            "label": "matter",
+            "title": "\u272dNodeID: matter~com.~0x55a3257377d49^29~0x59cc165b <br> \u272d Freq: 4 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 0, \"neg_count\": 2} <br> \u272d POS: NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize matter^1<br> - Joined with : Initialize matter^1 (matter~com.~0x55a325737f845^78~0x59cc16c0)<br> \u00bb matter^2<br> - Joined with : Initialize matter^1 (matter~com.~0x55a325737835e^31~0x59cc16a2)<br> \u00bb matter^3<br> - Joined with : Initialize matter^1 (matter~com.~0x55a3257377d49^29~0x59cc1660)<br> \u00bb matter^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffb800",
+            "group": "article",
+            "id": "fox~com.~0x55a3257374398^2~0x59cc161d",
+            "label": "fox",
+            "title": "\u272dNodeID: fox~com.~0x55a3257374398^2~0x59cc161d <br> \u272d Freq: 3 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 0, \"neg_count\": 1} <br> \u272d POS: NNS <br> \u272d Group_ids: art.0,com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize fox^1<br> - Joined with : Initialize fox^1 (fox~art.0~~0x59cc15d7)<br> \u00bb fox^2<br> - Joined with : Initialize fox^1 (fox~com.~0x55a325737a860^46~0x59cc16bc)<br> \u00bb fox^3",
+            "value": 3
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ff4800",
+            "group": "article",
+            "id": "waste~art.6~~0x59cc1612",
+            "label": "waste",
+            "title": "\u272dNodeID: waste~art.6~~0x59cc1612 <br> \u272d Freq: 15 <br> \u272d Sen_Score: -0.114 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 2, \"neg_count\": 13} <br> \u272d POS: VBP,VBG,NN <br> \u272d Group_ids: art.6,art.3,com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize waste^1<br> - Joined with : Initialize waste^1 (waste~com.~0x55a3257380ca3^87~0x59cc170f)<br> \u00bb waste^2<br> - Joined with : Initialize waste^1 (waste~art.3~~0x59cc15f3)<br> \u00bb waste^3<br> - Joined with : Initialize waste^1 (waste~com.~0x55a325737c5e5^57~0x59cc16e1)<br> \u00bb waste^4<br> - Joined with : Initialize waste^1 (waste~com.~0x55a3257378a79^33~0x59cc16b8)<br> \u00bb waste^5<br> - Joined with : Initialize waste^1 (waste~com.~0x55a3257375e6b^15~0x59cc1641)<br> \u00bb waste^6<br> - Joined with : Initialize waste^1 (waste~com.~0x55a3257378a79^33~0x59cc16bc)<br> \u00bb waste^7<br> - Joined with : Initialize waste^1 (waste~com.~0x55a3257379513^36~0x59cc165f)<br> \u00bb waste^8<br> - Joined with : Initialize waste^1 (waste~com.~0x55a3257377d49^29~0x59cc1656)<br> \u00bb waste^9<br> - Joined with : Initialize waste^1 (waste~com.~0x55a325737f4d4^77~0x59cc1700)<br> \u00bb waste^10<br> - Joined with : Initialize waste^1 (waste~com.~0x55a3257374551^3~0x59cc162b)<br> \u00bb waste^11<br> - Joined with : Initialize waste^1 (waste~com.~0x55a325737bf95^55~0x59cc16e2)<br> \u00bb waste^12<br> - Joined with : Initialize waste^1 (waste~com.~0x55a32573790c9^35~0x59cc16a4)<br> \u00bb waste^13<br> - Joined with : Initialize waste^1 (waste~art.6~~0x59cc1611)<br> \u00bb waste^14<br> - Joined with : Initialize waste^1 (waste~art.6~~0x59cc160f)<br> \u00bb waste^15",
+            "value": 15
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ff9000",
+            "group": "article",
+            "id": "week~com.~0x55a325737ee5c^74~0x59cc16b5",
+            "label": "week",
+            "title": "\u272dNodeID: week~com.~0x55a325737ee5c^74~0x59cc16b5 <br> \u272d Freq: 20 <br> \u272d Sen_Score: -0.0351 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 12, \"neg_count\": 6} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: art.6,art.0,art.2,com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize week^1<br> - Joined with : Initialize week^1 (week~art.6~~0x59cc160f)<br> \u00bb week^2<br> - Joined with : Initialize week^1 (week~art.2~~0x59cc15ed)<br> \u00bb week^3<br> - Joined with : Initialize week^1 (week~art.0~~0x59cc15d8)<br> \u00bb week^4<br> - Joined with : Initialize week^1 (week~art.2~~0x59cc15e6)<br> \u00bb week^5<br> - Joined with : Initialize week^1 (week~com.~0x55a3257375e6b^15~0x59cc1647)<br> \u00bb week^6<br> - Joined with : Initialize week^1 (week~com.~0x55a3257375e6b^15~0x59cc1641)<br> \u00bb week^7<br> - Joined with : Initialize week^1 (week~com.~0x55a325737dc45^64~0x59cc168b)<br> \u00bb week^8<br> - Joined with : Initialize week^1 (week~com.~0x55a32573754dd^11~0x59cc1644)<br> \u00bb week^9<br> - Joined with : Initialize week^1 (week~com.~0x55a325737835e^31~0x59cc168b)<br> \u00bb week^10<br> - Joined with : Initialize week^1 (week~com.~0x55a325737b3eb^50~0x59cc1663)<br> \u00bb week^11<br> - Joined with : Initialize week^1 (week~com.~0x55a32573801ae^81~0x59cc1701)<br> \u00bb week^12<br> - Joined with : Initialize week^1 (week~com.~0x55a3257380ca3^87~0x59cc170f)<br> \u00bb week^13<br> - Joined with : Initialize week^1 (week~com.~0x55a325737ae45^47~0x59cc168f)<br> \u00bb week^14<br> - Joined with : Initialize week^1 (week~com.~0x55a325737835e^31~0x59cc1692)<br> \u00bb week^15<br> - Joined with : Initialize week^1 (week~com.~0x55a3257378a79^33~0x59cc16b8)<br> \u00bb week^16<br> - Joined with : Initialize week^1 (week~com.~0x55a325738243e^100~0x59cc16c9)<br> \u00bb week^17<br> - Joined with : Initialize week^1 (week~com.~0x55a325737771a^26~0x59cc1642)<br> \u00bb week^18<br> - Joined with : Initialize week^1 (week~com.~0x55a3257375e6b^15~0x59cc1652)<br> \u00bb week^19<br> - Joined with : Initialize week^1 (week~com.~0x55a325737ce77^59~0x59cc1697)<br> \u00bb week^20",
+            "value": 20
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffb800",
+            "group": "comment",
+            "id": "size~com.~0x55a3257379cc1^39~0x59cc167c",
+            "label": "size",
+            "title": "\u272dNodeID: size~com.~0x55a3257379cc1^39~0x59cc167c <br> \u272d Freq: 5 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 4, \"neg_count\": 0} <br> \u272d POS: VBN,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize size^1<br> - Joined with : Initialize size^1 (size~com.~0x55a325738243e^100~0x59cc16c9)<br> \u00bb size^2<br> - Joined with : Initialize size^1 (size~com.~0x55a3257379ff9^41~0x59cc16af)<br> \u00bb size^3<br> - Joined with : Initialize size^1 (size~com.~0x55a325737835e^31~0x59cc1698)<br> \u00bb size^4<br> - Joined with : Initialize size^1 (size~com.~0x55a325737fec3^80~0x59cc1687)<br> \u00bb size^5",
+            "value": 5
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ff9800",
+            "group": "article",
+            "id": "family~com.~0x55a3257377428^25~0x59cc166e",
+            "label": "family",
+            "title": "\u272dNodeID: family~com.~0x55a3257377428^25~0x59cc166e <br> \u272d Freq: 11 <br> \u272d Sen_Score: -0.0263 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 4, \"neg_count\": 5} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: art.6,com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize family^1<br> - Joined with : Initialize family^1 (family~art.6~~0x59cc160d)<br> \u00bb family^2<br> - Joined with : Initialize family^1 (family~com.~0x55a325737ce77^59~0x59cc16b4)<br> \u00bb family^3<br> - Joined with : Initialize family^1 (family~com.~0x55a32573801ae^81~0x59cc1701)<br> \u00bb family^4<br> - Joined with : Initialize family^1 (family~com.~0x55a325737ce77^59~0x59cc16b0)<br> \u00bb family^5<br> - Joined with : Initialize family^1 (family~com.~0x55a32573754dd^11~0x59cc1644)<br> \u00bb family^6<br> - Joined with : Initialize family^1 (family~com.~0x55a325737ce77^59~0x59cc16aa)<br> \u00bb family^7<br> - Joined with : Initialize family^1 (family~com.~0x55a325737592a^13~0x59cc163e)<br> \u00bb family^8<br> - Joined with : Initialize family^1 (family~com.~0x55a325737dc45^64~0x59cc168b)<br> \u00bb family^9<br> - Joined with : Initialize family^1 (family~com.~0x55a32573778d9^27~0x59cc1655)<br> \u00bb family^10<br> - Joined with : Initialize family^1 (family~com.~0x55a32573756f3^12~0x59cc1627)<br> \u00bb family^11",
+            "value": 11
+        },
+        {
+            "cid": "\u03b1 WASTE - COST - MUCH - FOOD - COSTS - BECAUSE - LESS - RATHER - AMOUNT - SO",
+            "color": "#ff6400",
+            "group": "article",
+            "id": "cost~art.6~~0x59cc1611",
+            "label": "cost",
+            "title": "\u272dNodeID: cost~art.6~~0x59cc1611 <br> \u272d Freq: 7 <br> \u272d Sen_Score: 0.0263 <br> \u272d Sentiment: {\"pos_count\": 5, \"neu_count\": 0, \"neg_count\": 2} <br> \u272d POS: VBZ,NNS,NN <br> \u272d Group_ids: art.6,art.7,com. <br> \u272d Cluster_ids: \u03b1 WASTE - COST - MUCH - FOOD - COSTS - BECAUSE - LESS - RATHER - AMOUNT - SO <br> \u272d History: <br> - Initialize cost^1<br> - Joined with : Initialize cost^1 (cost~com.~0x55a325737c5e5^57~0x59cc16b2)<br> \u00bb cost^2<br> - Joined with : Initialize cost^1 (cost~com.~0x55a325737d8d0^63~0x59cc16f2)<br> \u00bb cost^3<br> - Joined with : Initialize cost^2 (cost~art.7~~0x59cc161a)<br> \u00bb cost^5<br> - Joined with : Initialize cost^2 (cost~com.~0x55a325737c5e5^57~0x59cc16c6)<br> \u00bb cost^7",
+            "value": 7
+        },
+        {
+            "cid": "\u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY",
+            "color": "#ffa000",
+            "group": "comment",
+            "id": "struggle~com.~0x55a325737cb1f^58~0x59cc168c",
+            "label": "struggle",
+            "title": "\u272dNodeID: struggle~com.~0x55a325737cb1f^58~0x59cc168c <br> \u272d Freq: 4 <br> \u272d Sen_Score: -0.0175 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 0, \"neg_count\": 3} <br> \u272d POS: VB,VBP,VBN,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY <br> \u272d History: <br> - Initialize struggle^1<br> - Joined with : Initialize struggle^1 (struggle~com.~0x55a3257377b20^28~0x59cc1641)<br> \u00bb struggle^2<br> - Joined with : Initialize struggle^1 (struggle~com.~0x55a3257376c07^21~0x59cc165b)<br> \u00bb struggle^3<br> - Joined with : Initialize struggle^1 (struggle~com.~0x55a3257379513^36~0x59cc1662)<br> \u00bb struggle^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b1 WASTE - COST - MUCH - FOOD - COSTS - BECAUSE - LESS - RATHER - AMOUNT - SO",
+            "color": "#ffb000",
+            "group": "comment",
+            "id": "bit~com.~0x55a3257377d49^29~0x59cc1671",
+            "label": "bit",
+            "title": "\u272dNodeID: bit~com.~0x55a3257377d49^29~0x59cc1671 <br> \u272d Freq: 4 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 2, \"neg_count\": 1} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b1 WASTE - COST - MUCH - FOOD - COSTS - BECAUSE - LESS - RATHER - AMOUNT - SO <br> \u272d History: <br> - Initialize bit^1<br> - Joined with : Initialize bit^1 (bit~com.~0x55a325737d325^61~0x59cc16dc)<br> \u00bb bit^2<br> - Joined with : Initialize bit^1 (bit~com.~0x55a325737592a^13~0x59cc163e)<br> \u00bb bit^3<br> - Joined with : Initialize bit^1 (bit~com.~0x55a325737e0cd^66~0x59cc16fb)<br> \u00bb bit^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ffa800",
+            "group": "comment",
+            "id": "fill~com.~0x55a325737c5e5^57~0x59cc16b2",
+            "label": "fill",
+            "title": "\u272dNodeID: fill~com.~0x55a325737c5e5^57~0x59cc16b2 <br> \u272d Freq: 9 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 3, \"neu_count\": 2, \"neg_count\": 4} <br> \u272d POS: VB,VBP,NN,VBD <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize fill^1<br> - Joined with : Initialize fill^1 (fill~com.~0x55a32573778d9^27~0x59cc1655)<br> \u00bb fill^2<br> - Joined with : Initialize fill^1 (fill~com.~0x55a325737ee5c^74~0x59cc16b5)<br> \u00bb fill^3<br> - Joined with : Initialize fill^1 (fill~com.~0x55a325737f242^76~0x59cc1701)<br> \u00bb fill^4<br> - Joined with : Initialize fill^1 (fill~com.~0x55a3257379513^36~0x59cc1659)<br> \u00bb fill^5<br> - Joined with : Initialize fill^1 (fill~com.~0x55a325737592a^13~0x59cc1646)<br> \u00bb fill^6<br> - Joined with : Initialize fill^1 (fill~com.~0x55a3257377428^25~0x59cc167b)<br> \u00bb fill^7<br> - Joined with : Initialize fill^1 (fill~com.~0x55a325737dc45^64~0x59cc168b)<br> \u00bb fill^8<br> - Joined with : Initialize fill^1 (fill~com.~0x55a32573754dd^11~0x59cc1644)<br> \u00bb fill^9",
+            "value": 9
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ffa000",
+            "group": "comment",
+            "id": "amount~com.~0x55a32573754dd^11~0x59cc1644",
+            "label": "amount",
+            "title": "\u272dNodeID: amount~com.~0x55a32573754dd^11~0x59cc1644 <br> \u272d Freq: 3 <br> \u272d Sen_Score: -0.0175 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 1, \"neg_count\": 2} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize amount^1<br> - Joined with : Initialize amount^1 (amount~com.~0x55a3257379513^36~0x59cc165f)<br> \u00bb amount^2<br> - Joined with : Initialize amount^1 (amount~com.~0x55a3257377d49^29~0x59cc166a)<br> \u00bb amount^3",
+            "value": 3
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffa800",
+            "group": "article",
+            "id": "resident~com.~0x55a325737b61f^51~0x59cc16c8",
+            "label": "resident",
+            "title": "\u272dNodeID: resident~com.~0x55a325737b61f^51~0x59cc16c8 <br> \u272d Freq: 6 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 5, \"neg_count\": 1} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: art.5,art.2,com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize resident^1<br> - Joined with : Initialize resident^1 (resident~art.2~~0x59cc15e9)<br> \u00bb resident^2<br> - Joined with : Initialize resident^1 (resident~art.5~~0x59cc1606)<br> \u00bb resident^3<br> - Joined with : Initialize resident^1 (resident~com.~0x55a325737b61f^51~0x59cc16c3)<br> \u00bb resident^4<br> - Joined with : Initialize resident^1 (resident~com.~0x55a3257376dd4^22~0x59cc1636)<br> \u00bb resident^5<br> - Joined with : Initialize resident^1 (resident~com.~0x55a325737a860^46~0x59cc1695)<br> \u00bb resident^6",
+            "value": 6
+        },
+        {
+            "cid": "\u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY",
+            "color": "#ffa000",
+            "group": "article",
+            "id": "change~art.6~~0x59cc1611",
+            "label": "change",
+            "title": "\u272dNodeID: change~art.6~~0x59cc1611 <br> \u272d Freq: 5 <br> \u272d Sen_Score: -0.0175 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 1, \"neg_count\": 3} <br> \u272d POS: VB,NN <br> \u272d Group_ids: art.6,art.2,com. <br> \u272d Cluster_ids: \u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY <br> \u272d History: <br> - Initialize change^1<br> - Joined with : Initialize change^1 (change~com.~0x55a3257375243^10~0x59cc1625)<br> \u00bb change^2<br> - Joined with : Initialize change^1 (change~com.~0x55a3257375e6b^15~0x59cc165d)<br> \u00bb change^3<br> - Joined with : Initialize change^1 (change~com.~0x55a3257375e6b^15~0x59cc1647)<br> \u00bb change^4<br> - Joined with : Initialize change^1 (change~art.2~~0x59cc15e7)<br> \u00bb change^5",
+            "value": 5
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ffa800",
+            "group": "article",
+            "id": "vote~com.~0x55a3257376f7a^23~0x59cc167b",
+            "label": "vote",
+            "title": "\u272dNodeID: vote~com.~0x55a3257376f7a^23~0x59cc167b <br> \u272d Freq: 3 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 2, \"neg_count\": 1} <br> \u272d POS: NN,VBD <br> \u272d Group_ids: art.1,art.2,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize vote^1<br> - Joined with : Initialize vote^1 (vote~art.2~~0x59cc15ed)<br> \u00bb vote^2<br> - Joined with : Initialize vote^1 (vote~art.1~~0x59cc15dd)<br> \u00bb vote^3",
+            "value": 3
+        },
+        {
+            "cid": "\u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY",
+            "color": "#ffb800",
+            "group": "comment",
+            "id": "full~com.~0x55a325737a860^46~0x59cc1682",
+            "label": "full",
+            "title": "\u272dNodeID: full~com.~0x55a325737a860^46~0x59cc1682 <br> \u272d Freq: 6 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 5, \"neg_count\": 0} <br> \u272d POS: JJ <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY <br> \u272d History: <br> - Initialize full^1<br> - Joined with : Initialize full^1 (full~com.~0x55a3257376f7a^23~0x59cc165f)<br> \u00bb full^2<br> - Joined with : Initialize full^1 (full~com.~0x55a3257379513^36~0x59cc1662)<br> \u00bb full^3<br> - Joined with : Initialize full^1 (full~com.~0x55a325737771a^26~0x59cc1642)<br> \u00bb full^4<br> - Joined with : Initialize full^1 (full~com.~0x55a325737debf^65~0x59cc16f3)<br> \u00bb full^5<br> - Joined with : Initialize full^1 (full~com.~0x55a325737c5e5^57~0x59cc16dc)<br> \u00bb full^6",
+            "value": 6
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffb800",
+            "group": "comment",
+            "id": "garden~com.~0x55a32573790c9^35~0x59cc16b1",
+            "label": "garden",
+            "title": "\u272dNodeID: garden~com.~0x55a32573790c9^35~0x59cc16b1 <br> \u272d Freq: 6 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 3, \"neg_count\": 1} <br> \u272d POS: NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize garden^1<br> - Joined with : Initialize garden^1 (garden~com.~0x55a325737e8d0^71~0x59cc16f6)<br> \u00bb garden^2<br> - Joined with : Initialize garden^1 (garden~com.~0x55a3257377d49^29~0x59cc165b)<br> \u00bb garden^3<br> - Joined with : Initialize garden^1 (garden~com.~0x55a325737a860^46~0x59cc16b3)<br> \u00bb garden^4<br> - Joined with : Initialize garden^1 (garden~com.~0x55a325737835e^31~0x59cc1698)<br> \u00bb garden^5<br> - Joined with : Initialize garden^1 (garden~com.~0x55a3257377d49^29~0x59cc1660)<br> \u00bb garden^6",
+            "value": 6
+        },
+        {
+            "cid": "\u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY",
+            "color": "#ffb000",
+            "group": "article",
+            "id": "weekly_bin_space~art.6~~0x59cc1611",
+            "label": "bin_space",
+            "title": "\u272dNodeID: weekly_bin_space~art.6~~0x59cc1611 <br> \u272d Freq: 3 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 1, \"neg_count\": 1} <br> \u272d POS: NN,NNP <br> \u272d Group_ids: art.5,art.6,com. <br> \u272d Cluster_ids: \u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY <br> \u272d History: <br> - Initialize weekly_bin_space^1 <br> - Contracted with bin_space^2 (bin_space~art.5~~0x59cc1600)",
+            "value": 3
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ff8800",
+            "group": "comment",
+            "id": "stuff~com.~0x55a3257374c7f^7~0x59cc162b",
+            "label": "stuff",
+            "title": "\u272dNodeID: stuff~com.~0x55a3257374c7f^7~0x59cc162b <br> \u272d Freq: 5 <br> \u272d Sen_Score: -0.0439 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 0, \"neg_count\": 5} <br> \u272d POS: NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize stuff^1<br> - Joined with : Initialize stuff^1 (stuff~com.~0x55a3257377d49^29~0x59cc1651)<br> \u00bb stuff^2<br> - Joined with : Initialize stuff^1 (stuff~com.~0x55a325737835e^31~0x59cc16a2)<br> \u00bb stuff^3<br> - Joined with : Initialize stuff^1 (stuff~com.~0x55a3257376f7a^23~0x59cc1676)<br> \u00bb stuff^4<br> - Joined with : Initialize stuff^1 (stuff~com.~0x55a32573790c9^35~0x59cc16a4)<br> \u00bb stuff^5",
+            "value": 5
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffa000",
+            "group": "comment",
+            "id": "rat~com.~0x55a3257379ff9^41~0x59cc16af",
+            "label": "rat",
+            "title": "\u272dNodeID: rat~com.~0x55a3257379ff9^41~0x59cc16af <br> \u272d Freq: 5 <br> \u272d Sen_Score: -0.0175 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 3, \"neg_count\": 2} <br> \u272d POS: NNS <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize rat^1<br> - Joined with : Initialize rat^1 (rat~com.~0x55a325737410e^1~0x59cc1628)<br> \u00bb rat^2<br> - Joined with : Initialize rat^1 (rat~com.~0x55a3257374e84^8~0x59cc1623)<br> \u00bb rat^3<br> - Joined with : Initialize rat^1 (rat~com.~0x55a3257379cc1^39~0x59cc167c)<br> \u00bb rat^4<br> - Joined with : Initialize rat^1 (rat~com.~0x55a3257374398^2~0x59cc161d)<br> \u00bb rat^5",
+            "value": 5
+        },
+        {
+            "cid": "\u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY",
+            "color": "#ffb000",
+            "group": "comment",
+            "id": "offer_weekly_collections~com.~0x55a3257376f7a^23~0x59cc1681",
+            "label": "weekly_collection",
+            "title": "\u272dNodeID: offer_weekly_collections~com.~0x55a3257376f7a^23~0x59cc1681 <br> \u272d Freq: 3 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 1, \"neg_count\": 1} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY <br> \u272d History: <br> - Initialize offer_weekly_collections^1 <br> - Contracted with weekly_collections^1 (weekly_collections~com.~0x55a325737f845^78~0x59cc16cb) <br> - Contracted with weekly_collection^1 (weekly_collection~com.~0x55a325737771a^26~0x59cc1642)",
+            "value": 3
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffb000",
+            "group": "article",
+            "id": "borough~art.5~~0x59cc1607",
+            "label": "borough",
+            "title": "\u272dNodeID: borough~art.5~~0x59cc1607 <br> \u272d Freq: 3 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 1, \"neg_count\": 1} <br> \u272d POS: NN <br> \u272d Group_ids: art.5,com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize borough^1<br> - Joined with : Initialize borough^1 (borough~com.~0x55a3257376dd4^22~0x59cc1636)<br> \u00bb borough^2<br> - Joined with : Initialize borough^1 (borough~com.~0x55a3257374551^3~0x59cc162b)<br> \u00bb borough^3",
+            "value": 3
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ffa000",
+            "group": "article",
+            "id": "weekly_bin_collections~com.~0x55a325737f845^78~0x59cc16c8",
+            "label": "bin_collection",
+            "title": "\u272dNodeID: weekly_bin_collections~com.~0x55a325737f845^78~0x59cc16c8 <br> \u272d Freq: 4 <br> \u272d Sen_Score: -0.0175 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 2, \"neg_count\": 2} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: art.2,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize weekly_bin_collections^1 <br> - Contracted with bin_collection^2 (bin_collection~com.~0x55a325737ae45^47~0x59cc1685) <br> - Contracted with bin_collections^1 (bin_collections~com.~0x55a325737c5e5^57~0x59cc16d0)",
+            "value": 4
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ffa000",
+            "group": "article",
+            "id": "extra_grey_bin~art.6~~0x59cc160d",
+            "label": "grey_bin",
+            "title": "\u272dNodeID: extra_grey_bin~art.6~~0x59cc160d <br> \u272d Freq: 4 <br> \u272d Sen_Score: -0.0175 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 2, \"neg_count\": 2} <br> \u272d POS: NN,NNP <br> \u272d Group_ids: art.6,com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize extra_grey_bin^1 <br> - Contracted with grey_bin^3 (grey_bin~com.~0x55a3257375e6b^15~0x59cc1647)",
+            "value": 4
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ffb000",
+            "group": "article",
+            "id": "council~art.0~~0x59cc15d8",
+            "label": "council",
+            "title": "\u272dNodeID: council~art.0~~0x59cc15d8 <br> \u272d Freq: 12 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 4, \"neu_count\": 4, \"neg_count\": 4} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: art.7,art.0,com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize council^1<br> - Joined with : Initialize council^1 (council~com.~0x55a325737fec3^80~0x59cc169f)<br> \u00bb council^2<br> - Joined with : Initialize council^1 (council~com.~0x55a325737f845^78~0x59cc16c8)<br> \u00bb council^3<br> - Joined with : Initialize council^1 (council~com.~0x55a32573790c9^35~0x59cc16ba)<br> \u00bb council^4<br> - Joined with : Initialize council^1 (council~com.~0x55a3257378127^30~0x59cc1643)<br> \u00bb council^5<br> - Joined with : Initialize council^1 (council~com.~0x55a3257374c7f^7~0x59cc1635)<br> \u00bb council^6<br> - Joined with : Initialize council^1 (council~com.~0x55a3257377b20^28~0x59cc1648)<br> \u00bb council^7<br> - Joined with : Initialize council^1 (council~com.~0x55a325737835e^31~0x59cc16a2)<br> \u00bb council^8<br> - Joined with : Initialize council^1 (council~com.~0x55a3257380ca3^87~0x59cc170e)<br> \u00bb council^9<br> - Joined with : Initialize council^1 (council~art.7~~0x59cc161a)<br> \u00bb council^10<br> - Joined with : Initialize council^1 (council~com.~0x55a3257379513^36~0x59cc1654)<br> \u00bb council^11<br> - Joined with : Initialize council^1 (council~art.0~~0x59cc15d7)<br> \u00bb council^12",
+            "value": 12
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ff9800",
+            "group": "article",
+            "id": "fortnightly~com.~0x55a3257380ca3^87~0x59cc1710",
+            "label": "fortnightly",
+            "title": "\u272dNodeID: fortnightly~com.~0x55a3257380ca3^87~0x59cc1710 <br> \u272d Freq: 14 <br> \u272d Sen_Score: -0.0263 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 7, \"neg_count\": 5} <br> \u272d POS: RB,JJ <br> \u272d Group_ids: art.0,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize fortnightly^1<br> - Joined with : Initialize fortnightly^1 (fortnightly~art.0~~0x59cc15d8)<br> \u00bb fortnightly^2<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a325737592a^13~0x59cc1646)<br> \u00bb fortnightly^3<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a3257376f7a^23~0x59cc165f)<br> \u00bb fortnightly^4<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a325737ae45^47~0x59cc1685)<br> \u00bb fortnightly^5<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a3257376c07^21~0x59cc165b)<br> \u00bb fortnightly^6<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a325737835e^31~0x59cc167a)<br> \u00bb fortnightly^7<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a32573756f3^12~0x59cc1627)<br> \u00bb fortnightly^8<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a325737835e^31~0x59cc167d)<br> \u00bb fortnightly^9<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a325737cb1f^58~0x59cc1695)<br> \u00bb fortnightly^10<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a3257377b20^28~0x59cc1641)<br> \u00bb fortnightly^11<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a325737f242^76~0x59cc1701)<br> \u00bb fortnightly^12<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a3257380aa4^86~0x59cc1708)<br> \u00bb fortnightly^13<br> - Joined with : Initialize fortnightly^1 (fortnightly~com.~0x55a3257379513^36~0x59cc1654)<br> \u00bb fortnightly^14",
+            "value": 14
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ffb000",
+            "group": "article",
+            "id": "rubbish~com.~0x55a32573748dd^5~0x59cc162a",
+            "label": "rubbish",
+            "title": "\u272dNodeID: rubbish~com.~0x55a32573748dd^5~0x59cc162a <br> \u272d Freq: 17 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 3, \"neu_count\": 11, \"neg_count\": 3} <br> \u272d POS: JJ <br> \u272d Group_ids: art.5,art.7,art.1,art.2,com.,art.3 <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize rubbish^1<br> - Joined with : Initialize rubbish^1 (rubbish~art.1~~0x59cc15dd)<br> \u00bb rubbish^2<br> - Joined with : Initialize rubbish^1 (rubbish~art.5~~0x59cc1606)<br> \u00bb rubbish^3<br> - Joined with : Initialize rubbish^1 (rubbish~art.2~~0x59cc15ed)<br> \u00bb rubbish^4<br> - Joined with : Initialize rubbish^1 (rubbish~art.3~~0x59cc15f5)<br> \u00bb rubbish^5<br> - Joined with : Initialize rubbish^1 (rubbish~art.7~~0x59cc161a)<br> \u00bb rubbish^6<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a325737e8d0^71~0x59cc16f6)<br> \u00bb rubbish^7<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a325737a860^46~0x59cc16d1)<br> \u00bb rubbish^8<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a325737f845^78~0x59cc16c8)<br> \u00bb rubbish^9<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a325737a860^46~0x59cc1682)<br> \u00bb rubbish^10<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a3257380371^82~0x59cc16a0)<br> \u00bb rubbish^11<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a325737e8d0^71~0x59cc16f8)<br> \u00bb rubbish^12<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a325737a860^46~0x59cc1687)<br> \u00bb rubbish^13<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a32573748dd^5~0x59cc1625)<br> \u00bb rubbish^14<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a325737835e^31~0x59cc167d)<br> \u00bb rubbish^15<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a325737771a^26~0x59cc1642)<br> \u00bb rubbish^16<br> - Joined with : Initialize rubbish^1 (rubbish~com.~0x55a325737fec3^80~0x59cc1687)<br> \u00bb rubbish^17",
+            "value": 17
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffa000",
+            "group": "article",
+            "id": "vermin~art.5~~0x59cc1606",
+            "label": "vermin",
+            "title": "\u272dNodeID: vermin~art.5~~0x59cc1606 <br> \u272d Freq: 6 <br> \u272d Sen_Score: -0.0175 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 2, \"neg_count\": 3} <br> \u272d POS: NN <br> \u272d Group_ids: art.5,art.0,art.1,com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize vermin^1<br> - Joined with : Initialize vermin^1 (vermin~art.0~~0x59cc15d7)<br> \u00bb vermin^2<br> - Joined with : Initialize vermin^1 (vermin~com.~0x55a3257375e6b^15~0x59cc1647)<br> \u00bb vermin^3<br> - Joined with : Initialize vermin^1 (vermin~art.1~~0x59cc15dd)<br> \u00bb vermin^4<br> - Joined with : Initialize vermin^1 (vermin~com.~0x55a3257374e84^8~0x59cc1623)<br> \u00bb vermin^5<br> - Joined with : Initialize vermin^1 (vermin~com.~0x55a325737410e^1~0x59cc1628)<br> \u00bb vermin^6",
+            "value": 6
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ffa800",
+            "group": "article",
+            "id": "disposable_nappies~com.~0x55a3257375e6b^15~0x59cc164d",
+            "label": "disposable_nappies",
+            "title": "\u272dNodeID: disposable_nappies~com.~0x55a3257375e6b^15~0x59cc164d <br> \u272d Freq: 4 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 1, \"neg_count\": 2} <br> \u272d POS: NNS <br> \u272d Group_ids: art.6,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize disposable_nappies^1<br> - Joined with : Initialize disposable_nappies^1 (disposable_nappies~art.6~~0x59cc160d)<br> \u00bb disposable_nappies^2<br> - Joined with : Initialize disposable_nappies^1 (disposable_nappies~com.~0x55a3257375e6b^15~0x59cc1652)<br> \u00bb disposable_nappies^3<br> - Joined with : Initialize disposable_nappies^1 (disposable_nappies~com.~0x55a325737cb1f^58~0x59cc1695)<br> \u00bb disposable_nappies^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffa800",
+            "group": "article",
+            "id": "public_health~art.5~~0x59cc1606",
+            "label": "medical_issues",
+            "title": "\u272dNodeID: public_health~art.5~~0x59cc1606 <br> \u272d Freq: 3 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 0, \"neg_count\": 2} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: art.5,com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize public_health^1 <br> - Contracted with public_health_issues^1 (public_health_issues~art.5~~0x59cc1606) <br> - Contracted with medical_issues^1 (medical_issues~com.~0x55a3257380502^83~0x59cc16f7)",
+            "value": 3
+        },
+        {
+            "cid": "\u03b1 WASTE - COST - MUCH - FOOD - COSTS - BECAUSE - LESS - RATHER - AMOUNT - SO",
+            "color": "#ffc000",
+            "group": "article",
+            "id": "example~art.5~~0x59cc1604",
+            "label": "example",
+            "title": "\u272dNodeID: example~art.5~~0x59cc1604 <br> \u272d Freq: 4 <br> \u272d Sen_Score: 0.0175 <br> \u272d Sentiment: {\"pos_count\": 3, \"neu_count\": 0, \"neg_count\": 1} <br> \u272d POS: NN <br> \u272d Group_ids: art.5,art.7,com. <br> \u272d Cluster_ids: \u03b1 WASTE - COST - MUCH - FOOD - COSTS - BECAUSE - LESS - RATHER - AMOUNT - SO <br> \u272d History: <br> - Initialize example^1<br> - Joined with : Initialize example^1 (example~art.7~~0x59cc161a)<br> \u00bb example^2<br> - Joined with : Initialize example^1 (example~com.~0x55a3257376738^18~0x59cc162d)<br> \u00bb example^3<br> - Joined with : Initialize example^1 (example~com.~0x55a325737628f^16~0x59cc162e)<br> \u00bb example^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY",
+            "color": "#ff9000",
+            "group": "comment",
+            "id": "nappy~com.~0x55a325737cb1f^58~0x59cc168c",
+            "label": "nappy",
+            "title": "\u272dNodeID: nappy~com.~0x55a325737cb1f^58~0x59cc168c <br> \u272d Freq: 12 <br> \u272d Sen_Score: -0.0351 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 4, \"neg_count\": 6} <br> \u272d POS: NNS <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY <br> \u272d History: <br> - Initialize nappy^1<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a3257380502^83~0x59cc16f7)<br> \u00bb nappy^2<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a325737592a^13~0x59cc163e)<br> \u00bb nappy^3<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a32573808c3^85~0x59cc1700)<br> \u00bb nappy^4<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a325737628f^16~0x59cc162e)<br> \u00bb nappy^5<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a325737b61f^51~0x59cc16c3)<br> \u00bb nappy^6<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a32573790c9^35~0x59cc1695)<br> \u00bb nappy^7<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a325737b61f^51~0x59cc16c8)<br> \u00bb nappy^8<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a3257377b20^28~0x59cc1648)<br> \u00bb nappy^9<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a32573790c9^35~0x59cc1699)<br> \u00bb nappy^10<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a3257379513^36~0x59cc165f)<br> \u00bb nappy^11<br> - Joined with : Initialize nappy^1 (nappy~com.~0x55a325737c2ba^56~0x59cc16ee)<br> \u00bb nappy^12",
+            "value": 12
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ffb000",
+            "group": "article",
+            "id": "year~art.2~~0x59cc15e9",
+            "label": "year",
+            "title": "\u272dNodeID: year~art.2~~0x59cc15e9 <br> \u272d Freq: 7 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 3, \"neu_count\": 1, \"neg_count\": 3} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: art.7,art.2,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize year^1<br> - Joined with : Initialize year^1 (year~com.~0x55a3257377d49^29~0x59cc1656)<br> \u00bb year^2<br> - Joined with : Initialize year^1 (year~com.~0x55a325737835e^31~0x59cc16a2)<br> \u00bb year^3<br> - Joined with : Initialize year^1 (year~com.~0x55a325737592a^13~0x59cc1646)<br> \u00bb year^4<br> - Joined with : Initialize year^1 (year~art.7~~0x59cc1617)<br> \u00bb year^5<br> - Joined with : Initialize year^1 (year~art.2~~0x59cc15ea)<br> \u00bb year^6<br> - Joined with : Initialize year^1 (year~art.2~~0x59cc15ed)<br> \u00bb year^7",
+            "value": 7
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ffa000",
+            "group": "article",
+            "id": "councillor~com.~0x55a3257379ff9^41~0x59cc16af",
+            "label": "councillor",
+            "title": "\u272dNodeID: councillor~com.~0x55a3257379ff9^41~0x59cc16af <br> \u272d Freq: 8 <br> \u272d Sen_Score: -0.0175 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 2, \"neg_count\": 4} <br> \u272d POS: NNS,NN,NNP <br> \u272d Group_ids: art.4,art.5,art.6,art.7,art.1,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize councillor^1<br> - Joined with : Initialize councillor^1 (councillor~art.5~~0x59cc1601)<br> \u00bb councillor^2<br> - Joined with : Initialize councillor^1 (councillor~art.7~~0x59cc161a)<br> \u00bb councillor^3<br> - Joined with : Initialize councillor^1 (councillor~art.5~~0x59cc1606)<br> \u00bb councillor^4<br> - Joined with : Initialize councillor^1 (councillor~art.4~~0x59cc15fa)<br> \u00bb councillor^5<br> - Joined with : Initialize councillor^1 (councillor~art.6~~0x59cc160f)<br> \u00bb councillor^6<br> - Joined with : Initialize councillor^1 (councillor~art.1~~0x59cc15dc)<br> \u00bb councillor^7<br> - Joined with : Initialize councillor^1 (councillor~art.1~~0x59cc15dd)<br> \u00bb councillor^8",
+            "value": 8
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ff9800",
+            "group": "comment",
+            "id": "compost~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "compost",
+            "title": "\u272dNodeID: compost~com.~0x55a325737592a^13~0x59cc163e <br> \u272d Freq: 6 <br> \u272d Sen_Score: -0.0263 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 1, \"neg_count\": 4} <br> \u272d POS: NNS,VBN,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize compost^1<br> - Joined with : Initialize compost^1 (compost~com.~0x55a3257378ee5^34~0x59cc1662)<br> \u00bb compost^2<br> - Joined with : Initialize compost^1 (compost~com.~0x55a3257374551^3~0x59cc162b)<br> \u00bb compost^3<br> - Joined with : Initialize compost^1 (compost~com.~0x55a3257374c7f^7~0x59cc1626)<br> \u00bb compost^4<br> - Joined with : Initialize compost^1 (compost~com.~0x55a32573778d9^27~0x59cc1655)<br> \u00bb compost^5<br> - Joined with : Initialize compost^1 (compost~com.~0x55a3257374c7f^7~0x59cc162b)<br> \u00bb compost^6",
+            "value": 6
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ffb800",
+            "group": "comment",
+            "id": "non-recyclable_rubbish~com.~0x55a325738243e^100~0x59cc16c9",
+            "label": "people_household_rubbish_bins",
+            "title": "\u272dNodeID: non-recyclable_rubbish~com.~0x55a325738243e^100~0x59cc16c9 <br> \u272d Freq: 3 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 2, \"neg_count\": 0} <br> \u272d POS: NNS,NN,JJ <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize non-recyclable_rubbish^1 <br> - Contracted with people_household_rubbish_bins^2 (green_rubbish_recycling~com.~0x55a325737a860^46~0x59cc1687)",
+            "value": 3
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ffa800",
+            "group": "article",
+            "id": "bury~com.~0x55a325737ce77^59~0x59cc16b0",
+            "label": "bury",
+            "title": "\u272dNodeID: bury~com.~0x55a325737ce77^59~0x59cc16b0 <br> \u272d Freq: 11 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 4, \"neu_count\": 2, \"neg_count\": 5} <br> \u272d POS: VB,NN,NNP <br> \u272d Group_ids: art.4,art.7,art.1,art.2,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize bury^1<br> - Joined with : Initialize bury^1 (bury~art.2~~0x59cc15ee)<br> \u00bb bury^2<br> - Joined with : Initialize bury^1 (bury~art.4~~0x59cc15fa)<br> \u00bb bury^3<br> - Joined with : Initialize bury^1 (bury~art.2~~0x59cc15e8)<br> \u00bb bury^4<br> - Joined with : Initialize bury^1 (bury~art.7~~0x59cc1617)<br> \u00bb bury^5<br> - Joined with : Initialize bury^1 (bury~art.1~~0x59cc15dc)<br> \u00bb bury^6<br> - Joined with : Initialize bury^1 (bury~com.~0x55a32573754dd^11~0x59cc1644)<br> \u00bb bury^7<br> - Joined with : Initialize bury^1 (bury~com.~0x55a32573808c3^85~0x59cc1700)<br> \u00bb bury^8<br> - Joined with : Initialize bury^1 (bury~com.~0x55a3257376f7a^23~0x59cc166d)<br> \u00bb bury^9<br> - Joined with : Initialize bury^1 (bury~com.~0x55a325737a860^46~0x59cc16ca)<br> \u00bb bury^10<br> - Joined with : Initialize bury^1 (bury~com.~0x55a3257375c49^14~0x59cc162c)<br> \u00bb bury^11",
+            "value": 11
+        },
+        {
+            "cid": "\u03b1 WASTE - COST - MUCH - FOOD - COSTS - BECAUSE - LESS - RATHER - AMOUNT - SO",
+            "color": "#ffc000",
+            "group": "comment",
+            "id": "food~com.~0x55a3257377d49^29~0x59cc1671",
+            "label": "food",
+            "title": "\u272dNodeID: food~com.~0x55a3257377d49^29~0x59cc1671 <br> \u272d Freq: 7 <br> \u272d Sen_Score: 0.0175 <br> \u272d Sentiment: {\"pos_count\": 3, \"neu_count\": 3, \"neg_count\": 1} <br> \u272d POS: NN,NNP <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b1 WASTE - COST - MUCH - FOOD - COSTS - BECAUSE - LESS - RATHER - AMOUNT - SO <br> \u272d History: <br> - Initialize food^1<br> - Joined with : Initialize food^1 (food~com.~0x55a3257377428^25~0x59cc167b)<br> \u00bb food^2<br> - Joined with : Initialize food^1 (food~com.~0x55a32573778d9^27~0x59cc1655)<br> \u00bb food^3<br> - Joined with : Initialize food^1 (food~com.~0x55a32573778d9^27~0x59cc1650)<br> \u00bb food^4<br> - Joined with : Initialize food^1 (food~com.~0x55a3257377d49^29~0x59cc165b)<br> \u00bb food^5<br> - Joined with : Initialize food^1 (food~com.~0x55a3257380f0b^88~0x59cc16d2)<br> \u00bb food^6<br> - Joined with : Initialize food^1 (food~com.~0x55a3257376738^18~0x59cc1631)<br> \u00bb food^7",
+            "value": 7
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ff9800",
+            "group": "comment",
+            "id": "service~com.~0x55a3257376f7a^23~0x59cc166d",
+            "label": "service",
+            "title": "\u272dNodeID: service~com.~0x55a3257376f7a^23~0x59cc166d <br> \u272d Freq: 4 <br> \u272d Sen_Score: -0.0263 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 1, \"neg_count\": 3} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize service^1<br> - Joined with : Initialize service^1 (service~com.~0x55a325737fec3^80~0x59cc169f)<br> \u00bb service^2<br> - Joined with : Initialize service^1 (service~com.~0x55a3257374c7f^7~0x59cc1635)<br> \u00bb service^3<br> - Joined with : Initialize service^1 (service~com.~0x55a325737f845^78~0x59cc16c0)<br> \u00bb service^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ffa800",
+            "group": "comment",
+            "id": "end~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "end",
+            "title": "\u272dNodeID: end~com.~0x55a325737592a^13~0x59cc163e <br> \u272d Freq: 3 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 0, \"neg_count\": 2} <br> \u272d POS: VB,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize end^1<br> - Joined with : Initialize end^1 (end~com.~0x55a325737592a^13~0x59cc1646)<br> \u00bb end^2<br> - Joined with : Initialize end^1 (end~com.~0x55a325737f4d4^77~0x59cc1700)<br> \u00bb end^3",
+            "value": 3
+        },
+        {
+            "cid": "\u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY",
+            "color": "#ffb000",
+            "group": "comment",
+            "id": "article~com.~0x55a3257375243^10~0x59cc1625",
+            "label": "article",
+            "title": "\u272dNodeID: article~com.~0x55a3257375243^10~0x59cc1625 <br> \u272d Freq: 3 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 1, \"neg_count\": 1} <br> \u272d POS: NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY <br> \u272d History: <br> - Initialize article^1<br> - Joined with : Initialize article^1 (article~com.~0x55a325737c5e5^57~0x59cc16d8)<br> \u00bb article^2<br> - Joined with : Initialize article^1 (article~com.~0x55a3257380502^83~0x59cc16f7)<br> \u00bb article^3",
+            "value": 3
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ffb000",
+            "group": "article",
+            "id": "green~art.6~~0x59cc1611",
+            "label": "green",
+            "title": "\u272dNodeID: green~art.6~~0x59cc1611 <br> \u272d Freq: 4 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 2, \"neg_count\": 1} <br> \u272d POS: JJ <br> \u272d Group_ids: art.5,art.6,art.2 <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize green^1<br> - Joined with : Initialize green^1 (green~art.5~~0x59cc1607)<br> \u00bb green^2<br> - Joined with : Initialize green^1 (green~art.2~~0x59cc15e6)<br> \u00bb green^3<br> - Joined with : Initialize green^1 (green~art.6~~0x59cc160e)<br> \u00bb green^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffb800",
+            "group": "comment",
+            "id": "think~com.~0x55a3257378127^30~0x59cc1643",
+            "label": "think",
+            "title": "\u272dNodeID: think~com.~0x55a3257378127^30~0x59cc1643 <br> \u272d Freq: 10 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 7, \"neg_count\": 1} <br> \u272d POS: VB,VBP,VBN,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize think^1<br> - Joined with : Initialize think^1 (think~com.~0x55a3257381a61^94~0x59cc16c7)<br> \u00bb think^2<br> - Joined with : Initialize think^1 (think~com.~0x55a325737b3eb^50~0x59cc165f)<br> \u00bb think^3<br> - Joined with : Initialize think^1 (think~com.~0x55a3257376c07^21~0x59cc1651)<br> \u00bb think^4<br> - Joined with : Initialize think^1 (think~com.~0x55a325737410e^1~0x59cc162d)<br> \u00bb think^5<br> - Joined with : Initialize think^1 (think~com.~0x55a3257377d49^29~0x59cc1660)<br> \u00bb think^6<br> - Joined with : Initialize think^1 (think~com.~0x55a3257376f7a^23~0x59cc1654)<br> \u00bb think^7<br> - Joined with : Initialize think^1 (think~com.~0x55a325737727a^24~0x59cc1648)<br> \u00bb think^8<br> - Joined with : Initialize think^1 (think~com.~0x55a325738172d^92~0x59cc16b4)<br> \u00bb think^9<br> - Joined with : Initialize think^1 (think~com.~0x55a325737f845^78~0x59cc16c8)<br> \u00bb think^10",
+            "value": 10
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffb800",
+            "group": "article",
+            "id": "move~art.2~~0x59cc15e8",
+            "label": "move",
+            "title": "\u272dNodeID: move~art.2~~0x59cc15e8 <br> \u272d Freq: 3 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 1, \"neg_count\": 1} <br> \u272d POS: VBG,NN <br> \u272d Group_ids: art.0,art.2,com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize move^1<br> - Joined with : Initialize move^1 (move~com.~0x55a3257375c49^14~0x59cc1639)<br> \u00bb move^2<br> - Joined with : Initialize move^1 (move~art.0~~0x59cc15d7)<br> \u00bb move^3",
+            "value": 3
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ffa800",
+            "group": "article",
+            "id": "able~com.~0x55a325737f845^78~0x59cc16cb",
+            "label": "able",
+            "title": "\u272dNodeID: able~com.~0x55a325737f845^78~0x59cc16cb <br> \u272d Freq: 3 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 2, \"neg_count\": 1} <br> \u272d POS: JJ <br> \u272d Group_ids: art.6,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize able^1<br> - Joined with : Initialize able^1 (able~art.6~~0x59cc160d)<br> \u00bb able^2<br> - Joined with : Initialize able^1 (able~com.~0x55a325737a1f9^42~0x59cc1650)<br> \u00bb able^3",
+            "value": 3
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ff9800",
+            "group": "article",
+            "id": "empty~art.5~~0x59cc1604",
+            "label": "empty",
+            "title": "\u272dNodeID: empty~art.5~~0x59cc1604 <br> \u272d Freq: 7 <br> \u272d Sen_Score: -0.0263 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 0, \"neg_count\": 5} <br> \u272d POS: NN,VBN,JJ <br> \u272d Group_ids: art.5,art.6,art.2,com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize empty^1<br> - Joined with : Initialize empty^1 (empty~com.~0x55a3257377428^25~0x59cc1681)<br> \u00bb empty^2<br> - Joined with : Initialize empty^1 (empty~art.2~~0x59cc15e7)<br> \u00bb empty^3<br> - Joined with : Initialize empty^1 (empty~com.~0x55a325737592a^13~0x59cc163e)<br> \u00bb empty^4<br> - Joined with : Initialize empty^1 (empty~com.~0x55a3257381232^90~0x59cc16bd)<br> \u00bb empty^5<br> - Joined with : Initialize empty^1 (empty~com.~0x55a3257375243^10~0x59cc1625)<br> \u00bb empty^6<br> - Joined with : Initialize empty^1 (empty~art.6~~0x59cc1611)<br> \u00bb empty^7",
+            "value": 7
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffa800",
+            "group": "article",
+            "id": "lead~art.2~~0x59cc15ed",
+            "label": "lead",
+            "title": "\u272dNodeID: lead~art.2~~0x59cc15ed <br> \u272d Freq: 4 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 1, \"neg_count\": 2} <br> \u272d POS: VB,VBG,NN <br> \u272d Group_ids: art.4,art.5,art.0,art.2 <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize lead^1<br> - Joined with : Initialize lead^1 (lead~art.4~~0x59cc15fa)<br> \u00bb lead^2<br> - Joined with : Initialize lead^1 (lead~art.0~~0x59cc15d7)<br> \u00bb lead^3<br> - Joined with : Initialize lead^1 (lead~art.5~~0x59cc1606)<br> \u00bb lead^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ffc000",
+            "group": "comment",
+            "id": "package~com.~0x55a3257377d49^29~0x59cc166a",
+            "label": "package",
+            "title": "\u272dNodeID: package~com.~0x55a3257377d49^29~0x59cc166a <br> \u272d Freq: 7 <br> \u272d Sen_Score: 0.0175 <br> \u272d Sentiment: {\"pos_count\": 3, \"neu_count\": 3, \"neg_count\": 1} <br> \u272d POS: NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize package^1<br> - Joined with : Initialize package^1 (package~com.~0x55a3257376738^18~0x59cc162d)<br> \u00bb package^2<br> - Joined with : Initialize package^1 (package~com.~0x55a3257377428^25~0x59cc167b)<br> \u00bb package^3<br> - Joined with : Initialize package^1 (package~com.~0x55a3257376738^18~0x59cc1631)<br> \u00bb package^4<br> - Joined with : Initialize package^1 (package~com.~0x55a3257377d49^29~0x59cc1660)<br> \u00bb package^5<br> - Joined with : Initialize package^1 (package~com.~0x55a3257374c7f^7~0x59cc162b)<br> \u00bb package^6<br> - Joined with : Initialize package^1 (package~com.~0x55a3257374e84^8~0x59cc1623)<br> \u00bb package^7",
+            "value": 7
+        },
+        {
+            "cid": "\u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY",
+            "color": "#ff9800",
+            "group": "article",
+            "id": "flat~com.~0x55a3257375243^10~0x59cc1625",
+            "label": "flat",
+            "title": "\u272dNodeID: flat~com.~0x55a3257375243^10~0x59cc1625 <br> \u272d Freq: 7 <br> \u272d Sen_Score: -0.0263 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 4, \"neg_count\": 3} <br> \u272d POS: NNS,JJ <br> \u272d Group_ids: art.2,com. <br> \u272d Cluster_ids: \u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY <br> \u272d History: <br> - Initialize flat^1<br> - Joined with : Initialize flat^1 (flat~art.2~~0x59cc15e7)<br> \u00bb flat^2<br> - Joined with : Initialize flat^1 (flat~com.~0x55a3257374739^4~0x59cc1622)<br> \u00bb flat^3<br> - Joined with : Initialize flat^1 (flat~com.~0x55a32573748dd^5~0x59cc162a)<br> \u00bb flat^4<br> - Joined with : Initialize flat^1 (flat~com.~0x55a325738243e^100~0x59cc16c5)<br> \u00bb flat^5<br> - Joined with : Initialize flat^1 (flat~com.~0x55a325737771a^26~0x59cc1642)<br> \u00bb flat^6<br> - Joined with : Initialize flat^1 (flat~com.~0x55a32573748dd^5~0x59cc1625)<br> \u00bb flat^7",
+            "value": 7
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ffb800",
+            "group": "article",
+            "id": "bin~com.~0x55a325737e8d0^71~0x59cc16f6",
+            "label": "bin",
+            "title": "\u272dNodeID: bin~com.~0x55a325737e8d0^71~0x59cc16f6 <br> \u272d Freq: 26 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 7, \"neu_count\": 13, \"neg_count\": 6} <br> \u272d POS: NNS,NN <br> \u272d Group_ids: art.5,art.2,com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize bin^1<br> - Joined with : Initialize bin^1 (bin~art.2~~0x59cc15e6)<br> \u00bb bin^2<br> - Joined with : Initialize bin^1 (bin~art.5~~0x59cc1604)<br> \u00bb bin^3<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325737f242^76~0x59cc1701)<br> \u00bb bin^4<br> - Joined with : Initialize bin^1 (bin~com.~0x55a32573756f3^12~0x59cc1627)<br> \u00bb bin^5<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325737f242^76~0x59cc1704)<br> \u00bb bin^6<br> - Joined with : Initialize bin^1 (bin~com.~0x55a3257374551^3~0x59cc162b)<br> \u00bb bin^7<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325737592a^13~0x59cc1646)<br> \u00bb bin^8<br> - Joined with : Initialize bin^1 (bin~com.~0x55a3257380aa4^86~0x59cc1708)<br> \u00bb bin^9<br> - Joined with : Initialize bin^1 (bin~com.~0x55a3257375e6b^15~0x59cc164d)<br> \u00bb bin^10<br> - Joined with : Initialize bin^1 (bin~com.~0x55a3257377428^25~0x59cc166e)<br> \u00bb bin^11<br> - Joined with : Initialize bin^1 (bin~com.~0x55a3257380ca3^87~0x59cc170f)<br> \u00bb bin^12<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325737771a^26~0x59cc1642)<br> \u00bb bin^13<br> - Joined with : Initialize bin^1 (bin~com.~0x55a3257376f7a^23~0x59cc165f)<br> \u00bb bin^14<br> - Joined with : Initialize bin^1 (bin~com.~0x55a3257379513^36~0x59cc1662)<br> \u00bb bin^15<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325738243e^100~0x59cc16d0)<br> \u00bb bin^16<br> - Joined with : Initialize bin^1 (bin~com.~0x55a3257380f0b^88~0x59cc16d9)<br> \u00bb bin^17<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325737a674^45~0x59cc16d0)<br> \u00bb bin^18<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325737bf95^55~0x59cc16ed)<br> \u00bb bin^19<br> - Joined with : Initialize bin^1 (bin~com.~0x55a3257377428^25~0x59cc167b)<br> \u00bb bin^20<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325737f4d4^77~0x59cc1709)<br> \u00bb bin^21<br> - Joined with : Initialize bin^1 (bin~com.~0x55a32573754dd^11~0x59cc1644)<br> \u00bb bin^22<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325737f4d4^77~0x59cc1700)<br> \u00bb bin^23<br> - Joined with : Initialize bin^1 (bin~com.~0x55a3257377428^25~0x59cc1681)<br> \u00bb bin^24<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325737f4d4^77~0x59cc1707)<br> \u00bb bin^25<br> - Joined with : Initialize bin^1 (bin~com.~0x55a325737a860^46~0x59cc16ae)<br> \u00bb bin^26",
+            "value": 26
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ffb800",
+            "group": "comment",
+            "id": "little~com.~0x55a325737c5e5^57~0x59cc16e1",
+            "label": "little",
+            "title": "\u272dNodeID: little~com.~0x55a325737c5e5^57~0x59cc16e1 <br> \u272d Freq: 4 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 1, \"neg_count\": 1} <br> \u272d POS: JJ <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize little^1<br> - Joined with : Initialize little^1 (little~com.~0x55a3257381232^90~0x59cc16b8)<br> \u00bb little^2<br> - Joined with : Initialize little^1 (little~com.~0x55a32573778d9^27~0x59cc1655)<br> \u00bb little^3<br> - Joined with : Initialize little^1 (little~com.~0x55a325737771a^26~0x59cc1642)<br> \u00bb little^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE",
+            "color": "#ffb800",
+            "group": "article",
+            "id": "recycle~com.~0x55a325737835e^31~0x59cc167a",
+            "label": "recycle",
+            "title": "\u272dNodeID: recycle~com.~0x55a325737835e^31~0x59cc167a <br> \u272d Freq: 17 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 5, \"neu_count\": 8, \"neg_count\": 4} <br> \u272d POS: VB,VBG,NN,VBZ,VBN <br> \u272d Group_ids: art.6,art.7,art.2,com. <br> \u272d Cluster_ids: \u03b5 COLLECTION - GARBAGE - NOW - JUST - PUT - OF - UP - OUT - COLLECTED - PEOPLE <br> \u272d History: <br> - Initialize recycle^1<br> - Joined with : Initialize recycle^1 (recycle~art.6~~0x59cc1612)<br> \u00bb recycle^2<br> - Joined with : Initialize recycle^1 (recycle~art.7~~0x59cc1617)<br> \u00bb recycle^3<br> - Joined with : Initialize recycle^1 (recycle~art.2~~0x59cc15e6)<br> \u00bb recycle^4<br> - Joined with : Initialize recycle^1 (recycle~art.7~~0x59cc161a)<br> \u00bb recycle^5<br> - Joined with : Initialize recycle^1 (recycle~art.7~~0x59cc161b)<br> \u00bb recycle^6<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a325737a860^46~0x59cc1687)<br> \u00bb recycle^7<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a3257375e6b^15~0x59cc165d)<br> \u00bb recycle^8<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a325737835e^31~0x59cc167d)<br> \u00bb recycle^9<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a325737a860^46~0x59cc16b7)<br> \u00bb recycle^10<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a325737a356^43~0x59cc16c6)<br> \u00bb recycle^11<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a325737debf^65~0x59cc16f3)<br> \u00bb recycle^12<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a325737dc45^64~0x59cc168b)<br> \u00bb recycle^13<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a325737cb1f^58~0x59cc1695)<br> \u00bb recycle^14<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a325737a860^46~0x59cc168e)<br> \u00bb recycle^15<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a325737ae45^47~0x59cc1685)<br> \u00bb recycle^16<br> - Joined with : Initialize recycle^1 (recycle~com.~0x55a3257377428^25~0x59cc1677)<br> \u00bb recycle^17",
+            "value": 17
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ffc000",
+            "group": "comment",
+            "id": "cardboard~com.~0x55a325737f242^76~0x59cc1704",
+            "label": "cardboard",
+            "title": "\u272dNodeID: cardboard~com.~0x55a325737f242^76~0x59cc1704 <br> \u272d Freq: 5 <br> \u272d Sen_Score: 0.0175 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 3, \"neg_count\": 0} <br> \u272d POS: NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize cardboard^1<br> - Joined with : Initialize cardboard^1 (cardboard~com.~0x55a3257375e6b^15~0x59cc1658)<br> \u00bb cardboard^2<br> - Joined with : Initialize cardboard^1 (cardboard~com.~0x55a3257379513^36~0x59cc1659)<br> \u00bb cardboard^3<br> - Joined with : Initialize cardboard^1 (cardboard~com.~0x55a325737592a^13~0x59cc1646)<br> \u00bb cardboard^4<br> - Joined with : Initialize cardboard^1 (cardboard~com.~0x55a3257379513^36~0x59cc1654)<br> \u00bb cardboard^5",
+            "value": 5
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffb000",
+            "group": "article",
+            "id": "sort~com.~0x55a3257377d49^29~0x59cc1651",
+            "label": "sort",
+            "title": "\u272dNodeID: sort~com.~0x55a3257377d49^29~0x59cc1651 <br> \u272d Freq: 4 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 2, \"neg_count\": 1} <br> \u272d POS: NNS,VBG,NN <br> \u272d Group_ids: art.5,com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize sort^1<br> - Joined with : Initialize sort^1 (sort~art.5~~0x59cc1604)<br> \u00bb sort^2<br> - Joined with : Initialize sort^1 (sort~com.~0x55a3257377d49^29~0x59cc1666)<br> \u00bb sort^3<br> - Joined with : Initialize sort^1 (sort~com.~0x55a32573790c9^35~0x59cc16b1)<br> \u00bb sort^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ff7000",
+            "group": "article",
+            "id": "waste_bin~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "non-recyclables_bin",
+            "title": "\u272dNodeID: waste_bin~com.~0x55a325737592a^13~0x59cc163e <br> \u272d Freq: 38 <br> \u272d Sen_Score: -0.0702 <br> \u272d Sentiment: {\"pos_count\": 6, \"neu_count\": 18, \"neg_count\": 14} <br> \u272d POS: NNS,JJ,NN,NNP <br> \u272d Group_ids: art.6,art.3,com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize waste_bin^1 <br> - Contracted with non-recyclables_bin^10 (wheelie_bin~com.~0x55a3257376f7a^23~0x59cc1676) <br> - Contracted with household_black_waste_bin^8 (black_bin_waste~com.~0x55a32573808c3^85~0x59cc1700) <br> - Contracted with non-recyclables_bin^19 (waste_bin~com.~0x55a325737592a^13~0x59cc163e)",
+            "value": 38
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ff9800",
+            "group": "comment",
+            "id": "house~com.~0x55a325737cb1f^58~0x59cc1695",
+            "label": "house",
+            "title": "\u272dNodeID: house~com.~0x55a325737cb1f^58~0x59cc1695 <br> \u272d Freq: 5 <br> \u272d Sen_Score: -0.0263 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 2, \"neg_count\": 3} <br> \u272d POS: VBP,NN,NNP <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize house^2<br> - Joined with : Initialize house^1 (house~com.~0x55a325737ee5c^74~0x59cc16b5)<br> \u00bb house^3<br> - Joined with : Initialize house^1 (house~com.~0x55a325737a860^46~0x59cc16d1)<br> \u00bb house^4<br> - Joined with : Initialize house^1 (house~com.~0x55a325737f242^76~0x59cc1701)<br> \u00bb house^5",
+            "value": 5
+        },
+        {
+            "cid": "\u03b1 WASTE - COST - MUCH - FOOD - COSTS - BECAUSE - LESS - RATHER - AMOUNT - SO",
+            "color": "#ffa800",
+            "group": "comment",
+            "id": "waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2",
+            "label": "landfill_waste",
+            "title": "\u272dNodeID: waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2 <br> \u272d Freq: 9 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 3, \"neu_count\": 2, \"neg_count\": 4} <br> \u272d POS: VBP,JJ,NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b1 WASTE - COST - MUCH - FOOD - COSTS - BECAUSE - LESS - RATHER - AMOUNT - SO <br> \u272d History: <br> - Initialize waste_reycling^1 <br> - Contracted with waste_disposal^1 (waste_disposal~com.~0x55a3257375e6b^15~0x59cc165d) <br> - Contracted with waste_packaging^1 (waste_packaging~com.~0x55a325737628f^16~0x59cc162e) <br> - Contracted with landfill_waste^1 (landfill_waste~com.~0x55a3257377d49^29~0x59cc1671) <br> - Contracted with landfill_waste^4 (waste_reycling~com.~0x55a3257380f0b^88~0x59cc16d2) <br> - Contracted with compostable_waste_charge^1 (compostable_waste_charge~com.~0x55a325737592a^13~0x59cc1646)",
+            "value": 9
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ff9800",
+            "group": "comment",
+            "id": "look~com.~0x55a3257374aa9^6~0x59cc1624",
+            "label": "look",
+            "title": "\u272dNodeID: look~com.~0x55a3257374aa9^6~0x59cc1624 <br> \u272d Freq: 8 <br> \u272d Sen_Score: -0.0263 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 5, \"neg_count\": 3} <br> \u272d POS: VB,VBG,NN,VBZ,VBN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize look^1<br> - Joined with : Initialize look^1 (look~com.~0x55a3257374e84^8~0x59cc1623)<br> \u00bb look^2<br> - Joined with : Initialize look^1 (look~com.~0x55a3257381428^91~0x59cc170d)<br> \u00bb look^3<br> - Joined with : Initialize look^1 (look~com.~0x55a325738172d^92~0x59cc16be)<br> \u00bb look^4<br> - Joined with : Initialize look^1 (look~com.~0x55a3257380ca3^87~0x59cc1710)<br> \u00bb look^5<br> - Joined with : Initialize look^1 (look~com.~0x55a325737b61f^51~0x59cc16c8)<br> \u00bb look^6<br> - Joined with : Initialize look^1 (look~com.~0x55a325737c5e5^57~0x59cc16bc)<br> \u00bb look^7<br> - Joined with : Initialize look^1 (look~com.~0x55a325737dc45^64~0x59cc16a3)<br> \u00bb look^8",
+            "value": 8
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ffa800",
+            "group": "article",
+            "id": "blue~art.6~~0x59cc1611",
+            "label": "blue",
+            "title": "\u272dNodeID: blue~art.6~~0x59cc1611 <br> \u272d Freq: 3 <br> \u272d Sen_Score: -0.0088 <br> \u272d Sentiment: {\"pos_count\": 0, \"neu_count\": 2, \"neg_count\": 1} <br> \u272d POS: JJ <br> \u272d Group_ids: art.6,art.2 <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize blue^1<br> - Joined with : Initialize blue^1 (blue~art.2~~0x59cc15e6)<br> \u00bb blue^2<br> - Joined with : Initialize blue^1 (blue~art.6~~0x59cc160e)<br> \u00bb blue^3",
+            "value": 3
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ffb800",
+            "group": "comment",
+            "id": "garden_waste~com.~0x55a32573754dd^11~0x59cc1644",
+            "label": "garden_waste",
+            "title": "\u272dNodeID: garden_waste~com.~0x55a32573754dd^11~0x59cc1644 <br> \u272d Freq: 4 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 1, \"neg_count\": 1} <br> \u272d POS: NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize garden_waste^1<br> - Joined with : Initialize garden_waste^1 (garden_waste~com.~0x55a3257379857^37~0x59cc1672)<br> \u00bb garden_waste^2<br> - Joined with : Initialize garden_waste^1 (garden_waste~com.~0x55a32573778d9^27~0x59cc1655)<br> \u00bb garden_waste^3<br> - Joined with : Initialize garden_waste^1 (garden_waste~com.~0x55a3257377d49^29~0x59cc165b)<br> \u00bb garden_waste^4",
+            "value": 4
+        },
+        {
+            "cid": "\u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE",
+            "color": "#ff8000",
+            "group": "article",
+            "id": "cut~com.~0x55a32573754dd^11~0x59cc1644",
+            "label": "cut",
+            "title": "\u272dNodeID: cut~com.~0x55a32573754dd^11~0x59cc1644 <br> \u272d Freq: 8 <br> \u272d Sen_Score: -0.0526 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 0, \"neg_count\": 7} <br> \u272d POS: VB,VBG,NN,VBD,NNS <br> \u272d Group_ids: art.0,art.2,com. <br> \u272d Cluster_ids: \u03b6 WASTE - COST - MUCH - MAKE - IT - AMOUNT - INSTEAD - PUT - COSTS - BECAUSE <br> \u272d History: <br> - Initialize cut^1<br> - Joined with : Initialize cut^1 (cut~art.2~~0x59cc15e9)<br> \u00bb cut^2<br> - Joined with : Initialize cut^1 (cut~art.0~~0x59cc15d7)<br> \u00bb cut^3<br> - Joined with : Initialize cut^1 (cut~art.2~~0x59cc15ea)<br> \u00bb cut^4<br> - Joined with : Initialize cut^1 (cut~art.2~~0x59cc15eb)<br> \u00bb cut^5<br> - Joined with : Initialize cut^1 (cut~com.~0x55a325737ce77^59~0x59cc16b0)<br> \u00bb cut^6<br> - Joined with : Initialize cut^1 (cut~com.~0x55a32573756f3^12~0x59cc1627)<br> \u00bb cut^7<br> - Joined with : Initialize cut^1 (cut~com.~0x55a325737f845^78~0x59cc16c8)<br> \u00bb cut^8",
+            "value": 8
+        },
+        {
+            "cid": "\u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT",
+            "color": "#ffb000",
+            "group": "comment",
+            "id": "winter~com.~0x55a325737592a^13~0x59cc163e",
+            "label": "winter",
+            "title": "\u272dNodeID: winter~com.~0x55a325737592a^13~0x59cc163e <br> \u272d Freq: 3 <br> \u272d Sen_Score: 0.0 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 1, \"neg_count\": 1} <br> \u272d POS: NN <br> \u272d Group_ids: com. <br> \u272d Cluster_ids: \u03b3 BIN - LADEN - OSAMA - AL - QAIDA - INSTEAD - . - BELIEVED - WANTED - OUT <br> \u272d History: <br> - Initialize winter^1<br> - Joined with : Initialize winter^1 (winter~com.~0x55a32573778d9^27~0x59cc1655)<br> \u00bb winter^2<br> - Joined with : Initialize winter^1 (winter~com.~0x55a325737e8d0^71~0x59cc16f2)<br> \u00bb winter^3",
+            "value": 3
+        },
+        {
+            "cid": "\u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY",
+            "color": "#ffb800",
+            "group": "article",
+            "id": "adult~com.~0x55a325737f242^76~0x59cc1701",
+            "label": "adult",
+            "title": "\u272dNodeID: adult~com.~0x55a325737f242^76~0x59cc1701 <br> \u272d Freq: 6 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 1, \"neu_count\": 5, \"neg_count\": 0} <br> \u272d POS: NNS <br> \u272d Group_ids: art.5,com. <br> \u272d Cluster_ids: \u03b4 SAME - FULL - SPACE - THIS - RATHER - OWN - EXAMPLE - WELL - SO - ONLY <br> \u272d History: <br> - Initialize adult^1<br> - Joined with : Initialize adult^1 (adult~art.5~~0x59cc1600)<br> \u00bb adult^2<br> - Joined with : Initialize adult^1 (adult~com.~0x55a3257376f7a^23~0x59cc1664)<br> \u00bb adult^3<br> - Joined with : Initialize adult^1 (adult~com.~0x55a3257379513^36~0x59cc1662)<br> \u00bb adult^4<br> - Joined with : Initialize adult^1 (adult~com.~0x55a3257378a79^33~0x59cc1690)<br> \u00bb adult^5<br> - Joined with : Initialize adult^1 (adult~com.~0x55a325737771a^26~0x59cc1642)<br> \u00bb adult^6",
+            "value": 6
+        },
+        {
+            "cid": "\u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE",
+            "color": "#ffb800",
+            "group": "article",
+            "id": "fly-tipping~art.5~~0x59cc1604",
+            "label": "fly-tipping",
+            "title": "\u272dNodeID: fly-tipping~art.5~~0x59cc1604 <br> \u272d Freq: 3 <br> \u272d Sen_Score: 0.0088 <br> \u272d Sentiment: {\"pos_count\": 2, \"neu_count\": 1, \"neg_count\": 1} <br> \u272d POS: NN,JJ <br> \u272d Group_ids: art.5,art.0 <br> \u272d Cluster_ids: \u03b2 EVEN - WHAT - BUT - JUST - IT - WAY - N'T - THIS - SO - BECAUSE <br> \u272d History: <br> - Initialize fly-tipping^1<br> - Joined with : Initialize fly-tipping^1 (fly-tipping~art.0~~0x59cc15d7)<br> \u00bb fly-tipping^2<br> - Joined with : Initialize fly-tipping^1 (fly-tipping~art.5~~0x59cc1606)<br> \u00bb fly-tipping^3",
+            "value": 3
+        }
+    ],
+    "options": {
+        "build_option": {
+            "build_mode": 1,
+            "n_thread": 10,
+            "sentiment_ana_mode": "local",
+            "use_thread_structure": false
+        },
+        "community_detection_option": {
+            "community_label_inference": {
+                "method": "distributed_semantic",
+                "params": {
+                    "composition_method": "vec_sum",
+                    "weight_ls": [
+                        1.0,
+                        0.7,
+                        0.5
+                    ],
+                    "window": 3
+                }
+            },
+            "enable_community_detection": true,
+            "method": {
+                "algorithm": "fluid_communities",
+                "n_communities": 6
+            }
+        },
+        "pruning_option": {
+            "black_dependencies": [
+                "advcl"
+            ],
+            "black_node_labels": [
+                "wa",
+                "a",
+                "about",
+                "above",
+                "across",
+                "after",
+                "afterwards",
+                "again",
+                "against",
+                "all",
+                "almost",
+                "alone",
+                "along",
+                "already",
+                "also",
+                "although",
+                "always",
+                "am",
+                "among",
+                "amongst",
+                "amoungst",
+                "an",
+                "and",
+                "another",
+                "any",
+                "anyhow",
+                "anyone",
+                "anything",
+                "anyway",
+                "anywhere",
+                "are",
+                "around",
+                "as",
+                "at",
+                "be",
+                "became",
+                "because",
+                "been",
+                "before",
+                "beforehand",
+                "behind",
+                "being",
+                "below",
+                "beside",
+                "besides",
+                "between",
+                "beyond",
+                "both",
+                "but",
+                "by",
+                "can",
+                "cannot",
+                "could",
+                "dare",
+                "despite",
+                "did",
+                "do",
+                "does",
+                "done",
+                "down",
+                "during",
+                "each",
+                "eg",
+                "either",
+                "else",
+                "elsewhere",
+                "enough",
+                "etc",
+                "even",
+                "ever",
+                "every",
+                "everyone",
+                "everything",
+                "everywhere",
+                "except",
+                "few",
+                "first",
+                "for",
+                "former",
+                "formerly",
+                "from",
+                "further",
+                "furthermore",
+                "had",
+                "has",
+                "have",
+                "he",
+                "hence",
+                "her",
+                "here",
+                "hereabouts",
+                "hereafter",
+                "hereby",
+                "herein",
+                "hereinafter",
+                "heretofore",
+                "hereunder",
+                "hereupon",
+                "herewith",
+                "hers",
+                "herself",
+                "him",
+                "himself",
+                "his",
+                "how",
+                "however",
+                "i",
+                "ie",
+                "if",
+                "in",
+                "indeed",
+                "inside",
+                "instead",
+                "into",
+                "is",
+                "it",
+                "its",
+                "itself",
+                "last",
+                "latter",
+                "latterly",
+                "least",
+                "less",
+                "lot",
+                "lots",
+                "many",
+                "may",
+                "me",
+                "meanwhile",
+                "might",
+                "mine",
+                "more",
+                "moreover",
+                "most",
+                "mostly",
+                "much",
+                "must",
+                "my",
+                "myself",
+                "namely",
+                "near",
+                "need",
+                "neither",
+                "never",
+                "nevertheless",
+                "next",
+                "no",
+                "nobody",
+                "none",
+                "noone",
+                "nor",
+                "not",
+                "nothing",
+                "now",
+                "nowhere",
+                "of",
+                "off",
+                "often",
+                "oftentimes",
+                "on",
+                "once",
+                "one",
+                "only",
+                "onto",
+                "or",
+                "other",
+                "others",
+                "otherwise",
+                "ought",
+                "our",
+                "ours",
+                "ourselves",
+                "out",
+                "outside",
+                "over",
+                "per",
+                "perhaps",
+                "rather",
+                "re",
+                "same",
+                "second",
+                "several",
+                "shall",
+                "she",
+                "should",
+                "since",
+                "so",
+                "some",
+                "somehow",
+                "someone",
+                "something",
+                "sometime",
+                "sometimes",
+                "somewhat",
+                "somewhere",
+                "still",
+                "such",
+                "than",
+                "that",
+                "the",
+                "their",
+                "theirs",
+                "them",
+                "themselves",
+                "then",
+                "thence",
+                "there",
+                "thereabouts",
+                "thereafter",
+                "thereby",
+                "therefore",
+                "therein",
+                "thereof",
+                "thereon",
+                "thereupon",
+                "these",
+                "they",
+                "third",
+                "this",
+                "those",
+                "though",
+                "through",
+                "throughout",
+                "thru",
+                "thus",
+                "to",
+                "together",
+                "too",
+                "top",
+                "toward",
+                "towards",
+                "under",
+                "until",
+                "up",
+                "upon",
+                "us",
+                "used",
+                "very",
+                "via",
+                "was",
+                "we",
+                "well",
+                "were",
+                "what",
+                "whatever",
+                "when",
+                "whence",
+                "whenever",
+                "where",
+                "whereafter",
+                "whereas",
+                "whereby",
+                "wherein",
+                "whereupon",
+                "wherever",
+                "whether",
+                "which",
+                "while",
+                "whither",
+                "who",
+                "whoever",
+                "whole",
+                "whom",
+                "whose",
+                "why",
+                "whyever",
+                "will",
+                "with",
+                "within",
+                "without",
+                "would",
+                "yes",
+                "yet",
+                "you",
+                "your",
+                "yours",
+                "yourself",
+                "yourselves"
+            ],
+            "black_pos": [
+                "VB",
+                "VBD",
+                "VBG",
+                "VBN",
+                "VBZ",
+                "VBP"
+            ],
+            "edge_freq_min": 2,
+            "enable_prunning": true,
+            "min_word_length": 3,
+            "node_degree_min": 2,
+            "node_freq_min": 3,
+            "regex_pattern": "^[a-z]{2,}([-_\\/]{1}[a-z]{2,})*$",
+            "remove_isolated_node": true,
+            "remove_rings": true,
+            "white_node_labels": []
+        },
+        "timestamp": "2017-09-28 04:26:50 ",
+        "unification_option": {
+            "unify_matched_keywords": {
+                "enable": true,
+                "inter_cluster_unify": true,
+                "intra_cluster_unify": true,
+                "unification_mode": "contract"
+            },
+            "unify_semantic_similarity": {
+                "enable": true,
+                "glove_model_file": "../models/glove.6B.200d.txt",
+                "threshold": 0.85
+            }
+        }
+    }
+}
